@@ -1,0 +1,1569 @@
+﻿Log file open, 08/06/19 21:52:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: zhihui
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.538546
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.06-13.52.38:331][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.06-13.52.38:331][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.06-13.52.38:332][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Engine.ini]
+[2019.08.06-13.52.38:332][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.06-13.52.38:332][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.08.06-13.52.38:332][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Engine.ini]
+[2019.08.06-13.52.38:333][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Engine.ini]
+[2019.08.06-13.52.38:333][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.06-13.52.38:333][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.06-13.52.38:333][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.06-13.52.38:333][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.06-13.52.38:334][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.06-13.52.38:334][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.06-13.52.38:334][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.06-13.52.38:334][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.06-13.52.38:334][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.06-13.52.38:335][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.06-13.52.38:335][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.06-13.52.38:335][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.06-13.52.38:335][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.06-13.52.38:335][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Engine.ini]
+[2019.08.06-13.52.38:335][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.06-13.52.38:336][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.06-13.52.38:336][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.06-13.52.38:336][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.06-13.52.38:336][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.06-13.52.38:336][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.06-13.52.38:336][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.06-13.52.38:337][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.06-13.52.38:337][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.06-13.52.38:337][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.06-13.52.38:337][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.06-13.52.38:337][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.06-13.52.38:338][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.06-13.52.38:338][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Engine.ini]
+[2019.08.06-13.52.38:338][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Engine.ini]
+[2019.08.06-13.52.38:364][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Scalability.ini]
+[2019.08.06-13.52.38:365][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.06-13.52.38:365][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.06-13.52.38:365][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Scalability.ini]
+[2019.08.06-13.52.38:365][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.06-13.52.38:366][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Scalability.ini]
+[2019.08.06-13.52.38:366][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.06-13.52.38:366][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.06-13.52.38:366][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.06-13.52.38:366][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.06-13.52.38:367][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.06-13.52.38:367][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.06-13.52.38:367][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.06-13.52.38:368][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.06-13.52.38:368][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.06-13.52.38:368][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.06-13.52.38:369][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.06-13.52.38:369][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.06-13.52.38:369][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.06-13.52.38:369][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.06-13.52.38:370][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.06-13.52.38:370][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.06-13.52.38:370][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.06-13.52.38:370][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.06-13.52.38:371][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Scalability.ini]
+[2019.08.06-13.52.38:371][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.06-13.52.38:371][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.06-13.52.38:371][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.06-13.52.38:371][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.06-13.52.38:371][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.06-13.52.38:372][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.06-13.52.38:372][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.06-13.52.38:372][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.06-13.52.38:372][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.06-13.52.38:372][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.06-13.52.38:372][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.06-13.52.38:373][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.06-13.52.38:373][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.06-13.52.38:373][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.06-13.52.38:373][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.06-13.52.38:373][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.06-13.52.38:373][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.06-13.52.38:373][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.06-13.52.38:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.06-13.52.38:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.06-13.52.38:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.06-13.52.38:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.06-13.52.38:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.06-13.52.38:375][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.06-13.52.38:375][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.06-13.52.38:375][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.06-13.52.38:375][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.06-13.52.38:375][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.06-13.52.38:375][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.06-13.52.38:376][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.06-13.52.38:376][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Scalability.ini]
+[2019.08.06-13.52.38:376][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.06-13.52.38:376][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.06-13.52.38:376][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.06-13.52.38:376][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.06-13.52.38:377][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.06-13.52.38:377][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.06-13.52.38:377][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.06-13.52.38:377][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.06-13.52.38:377][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Scalability.ini]
+[2019.08.06-13.52.38:377][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.06-13.52.38:378][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.06-13.52.38:378][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.06-13.52.38:378][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.06-13.52.38:378][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.06-13.52.38:378][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.06-13.52.38:379][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.06-13.52.38:379][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.06-13.52.38:379][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.06-13.52.38:379][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.06-13.52.38:379][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.06-13.52.38:380][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.06-13.52.38:380][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.06-13.52.38:380][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Scalability.ini]
+[2019.08.06-13.52.38:380][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.06-13.52.38:380][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.06-13.52.38:382][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.06-13.52.38:382][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.06-13.52.38:420][  0]LogHAL: Display: Platform has ~ 16 GB [17100521472 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.06-13.52.38:422][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.06-13.52.38:422][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.06-13.52.38:422][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Scalability.ini]
+[2019.08.06-13.52.38:423][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.06-13.52.38:423][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.06-13.52.38:423][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Scalability.ini]
+[2019.08.06-13.52.38:423][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.06-13.52.38:423][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Scalability.ini]
+[2019.08.06-13.52.38:424][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.06-13.52.38:424][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.06-13.52.38:424][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.06-13.52.38:424][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.06-13.52.38:424][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.06-13.52.38:425][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.06-13.52.38:425][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.06-13.52.38:425][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.06-13.52.38:425][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.06-13.52.38:425][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.06-13.52.38:425][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.06-13.52.38:426][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.06-13.52.38:426][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.06-13.52.38:426][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.06-13.52.38:426][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.06-13.52.38:426][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.06-13.52.38:426][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.06-13.52.38:427][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.06-13.52.38:427][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Scalability.ini]
+[2019.08.06-13.52.38:427][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.06-13.52.38:427][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.06-13.52.38:427][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.06-13.52.38:428][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.06-13.52.38:428][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.06-13.52.38:428][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.06-13.52.38:428][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.06-13.52.38:428][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.06-13.52.38:429][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.06-13.52.38:429][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.06-13.52.38:429][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.06-13.52.38:429][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.06-13.52.38:429][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.06-13.52.38:429][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.06-13.52.38:429][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.06-13.52.38:430][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.06-13.52.38:430][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.06-13.52.38:430][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.06-13.52.38:430][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.06-13.52.38:430][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.06-13.52.38:430][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.06-13.52.38:431][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.06-13.52.38:431][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.06-13.52.38:431][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.06-13.52.38:431][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.06-13.52.38:431][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.06-13.52.38:431][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.06-13.52.38:432][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.06-13.52.38:432][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.06-13.52.38:432][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.06-13.52.38:432][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Scalability.ini]
+[2019.08.06-13.52.38:432][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.06-13.52.38:432][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.06-13.52.38:433][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.06-13.52.38:433][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.06-13.52.38:433][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.06-13.52.38:433][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.06-13.52.38:433][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.06-13.52.38:433][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.06-13.52.38:434][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Scalability.ini]
+[2019.08.06-13.52.38:434][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.06-13.52.38:434][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.06-13.52.38:434][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.06-13.52.38:434][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.06-13.52.38:434][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.06-13.52.38:435][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.06-13.52.38:435][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.06-13.52.38:435][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.06-13.52.38:435][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.06-13.52.38:435][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.06-13.52.38:435][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.06-13.52.38:436][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.06-13.52.38:436][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.06-13.52.38:436][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Scalability.ini]
+[2019.08.06-13.52.38:436][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.06-13.52.38:436][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.06-13.52.38:436][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.06-13.52.38:437][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.06-13.52.38:438][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.06-13.52.38:438][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Config/Windows/Engine.ini]
+[2019.08.06-13.52.38:439][  0]LogInit: Computer: TERRANSFORCE
+[2019.08.06-13.52.38:439][  0]LogInit: User: Administrator
+[2019.08.06-13.52.38:439][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.06-13.52.38:439][  0]LogInit: High frequency timer resolution =2.338338 MHz
+[2019.08.06-13.52.38:440][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.08.06-13.52.38:440][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.06-13.52.38:440][  0]LogMemory: Process Physical Memory: 110.31 MB used, 110.31 MB peak
+[2019.08.06-13.52.38:440][  0]LogMemory: Process Virtual Memory: 91.09 MB used, 91.09 MB peak
+[2019.08.06-13.52.38:440][  0]LogMemory: Physical Memory: 6962.55 MB used,  9345.78 MB free, 16308.33 MB total
+[2019.08.06-13.52.38:440][  0]LogMemory: Virtual Memory: 4672.70 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.08.06-13.52.39:557][  0]LogInit: Using OS detected language (zh-CN).
+[2019.08.06-13.52.39:558][  0]LogInit: Using OS detected locale (zh-CN).
+[2019.08.06-13.52.39:568][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans-CN/Editor.locres' could not be opened for reading!
+[2019.08.06-13.52.39:569][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans-CN/EditorTutorials.locres' could not be opened for reading!
+[2019.08.06-13.52.39:571][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans-CN/Keywords.locres' could not be opened for reading!
+[2019.08.06-13.52.39:572][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans-CN/Category.locres' could not be opened for reading!
+[2019.08.06-13.52.39:573][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans-CN/ToolTips.locres' could not be opened for reading!
+[2019.08.06-13.52.39:575][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans-CN/PropertyNames.locres' could not be opened for reading!
+[2019.08.06-13.52.39:576][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans-CN/Engine.locres' could not be opened for reading!
+[2019.08.06-13.52.39:577][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-Hans-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.08.06-13.52.39:578][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-Hans-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.08.06-13.52.39:579][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-Hans-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.08.06-13.52.39:580][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-Hans-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.08.06-13.52.39:900][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.08.06-13.52.39:901][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.08.06-13.52.39:902][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.08.06-13.52.39:903][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.08.06-13.52.39:904][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans/Editor.locres' could not be opened for reading!
+[2019.08.06-13.52.39:905][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans/EditorTutorials.locres' could not be opened for reading!
+[2019.08.06-13.52.39:906][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans/Keywords.locres' could not be opened for reading!
+[2019.08.06-13.52.39:907][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans/Category.locres' could not be opened for reading!
+[2019.08.06-13.52.39:908][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans/ToolTips.locres' could not be opened for reading!
+[2019.08.06-13.52.39:909][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans/PropertyNames.locres' could not be opened for reading!
+[2019.08.06-13.52.39:910][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans/Engine.locres' could not be opened for reading!
+[2019.08.06-13.52.39:917][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2019.08.06-13.52.39:918][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2019.08.06-13.52.39:919][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2019.08.06-13.52.39:920][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2019.08.06-13.52.39:921][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2019.08.06-13.52.39:922][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2019.08.06-13.52.39:923][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2019.08.06-13.52.39:924][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.08.06-13.52.39:926][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.08.06-13.52.39:927][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2019.08.06-13.52.39:928][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.08.06-13.52.40:310][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.06-13.52.40:310][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.06-13.52.41:436][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.06-13.52.41:436][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.06-13.52.42:403][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 770M' (Feature Level 11_0)
+[2019.08.06-13.52.42:404][  0]LogD3D11RHI:       3029/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.06-13.52.42:458][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.08.06-13.52.42:458][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.08.06-13.52.42:501][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.06-13.52.42:501][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.06-13.52.42:501][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.06-13.52.42:566][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.06-13.52.42:566][  0]LogD3D11RHI:     GPU DeviceId: 0x11e0 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.06-13.52.42:567][  0]LogWindows: EnumDisplayDevices:
+[2019.08.06-13.52.42:568][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.08.06-13.52.42:573][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.08.06-13.52.42:579][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.08.06-13.52.42:583][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.08.06-13.52.42:583][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 770M
+[2019.08.06-13.52.42:583][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.08.06-13.52.42:583][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.08.06-13.52.42:583][  0]LogRHI: Texture pool is 2120 MB (70% of 3029 MB)
+[2019.08.06-13.52.42:799][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.06-13.52.42:830][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.06-13.52.42:833][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.06-13.52.42:834][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.06-13.52.42:856][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.08.06-13.52.45:024][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.06-13.52.45:065][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.06-13.52.45:109][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.06-13.52.45:157][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.06-13.52.45:220][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.06-13.52.45:286][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.06-13.52.45:349][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.06-13.52.45:400][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.06-13.52.45:429][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.06-13.52.45:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.06-13.52.45:703][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.06-13.52.45:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.06-13.52.45:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.06-13.52.45:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.06-13.52.45:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.06-13.52.45:704][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.06-13.52.45:705][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.06-13.52.45:705][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.06-13.52.45:705][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.06-13.52.45:705][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.06-13.52.45:705][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.06-13.52.45:705][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.06-13.52.45:706][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.06-13.52.45:706][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.06-13.52.45:706][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.06-13.52.45:706][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.06-13.52.45:706][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.06-13.52.45:728][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.06-13.52.45:869][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.06-13.52.45:869][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.06-13.52.45:940][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.06-13.52.45:940][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.06-13.52.45:994][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.06-13.52.46:040][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.06-13.52.46:083][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.06-13.52.46:143][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.06-13.52.46:301][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.06-13.52.46:301][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.06-13.52.46:301][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.06-13.52.46:384][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.06-13.52.46:913][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/Administrator/Documents/Unreal Projects/zhihui/Intermediate/Shaders/WorkingDirectory/15480/).
+[2019.08.06-13.52.46:914][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/2F595FE244B259EEEA5728B368A4B2A0/'.
+[2019.08.06-13.52.46:926][  0]LogXGEController: Cleaning working directory: C:/Users/Administrator/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.06-13.52.46:942][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.08.06-13.52.48:122][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.06-13.52.48:488][  0]LogDerivedDataCache: Loaded boot cache 0.37s 71MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.06-13.52.48:489][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.06-13.52.48:489][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Administrator/Documents/Unreal Projects/zhihui/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.06-13.52.48:490][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.06-13.52.48:490][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Administrator/Documents/Unreal Projects/zhihui/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.06-13.52.48:490][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.06-13.52.48:522][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.06-13.52.48:523][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.06-13.52.48:523][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.06-13.52.48:545][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.06-13.52.48:546][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.06-13.52.48:546][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.06-13.52.48:603][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.06-13.52.48:612][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.06-13.52.48:619][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.06-13.52.48:942][  0]LogAssetRegistry: FAssetRegistry took 0.0573 seconds to start up
+[2019.08.06-13.52.50:270][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.06-13.52.50:861][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.06-13.52.50:861][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.06-13.52.50:861][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.06-13.52.50:861][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.06-13.52.50:862][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.06-13.52.50:923][  0]LogNetVersion: zhihui 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1666584260)
+[2019.08.06-13.52.52:837][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 4 prioritized culture(s) in 0.595996 seconds
+[2019.08.06-13.52.52:847][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.06-13.52.52:847][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.06-13.52.52:847][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.06-13.52.56:993][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.06-13.52.57:025][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.06-13.52.57:609][  0]SourceControl: 源码控制已禁用
+[2019.08.06-13.52.57:610][  0]SourceControl: 源码控制已禁用
+[2019.08.06-13.52.57:665][  0]SourceControl: 源码控制已禁用
+[2019.08.06-13.52.57:682][  0]SourceControl: 源码控制已禁用
+[2019.08.06-13.52.58:839][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.06-13.52.59:736][  0]LogOcInput: OculusInput pre-init called
+[2019.08.06-13.53.02:145][  0]LogClass: Warning: FUPeopleRateAnalysis::analysisRatio is not initialized properly
+[2019.08.06-13.53.02:146][  0]LogClass: Warning: FUExceptionRate::eventCount is not initialized properly
+[2019.08.06-13.53.02:146][  0]LogClass: Warning: FUExceptionCount::eventCount is not initialized properly
+[2019.08.06-13.53.02:146][  0]LogClass: Warning: FUExceptionHighFrequency::timeValue is not initialized properly
+[2019.08.06-13.53.02:147][  0]LogClass: Warning: FUImportantAreaExceptionAnalysisZone::eventCount is not initialized properly
+[2019.08.06-13.53.02:147][  0]LogClass: Warning: FUImportantAreaMonitorTime::eventCount is not initialized properly
+[2019.08.06-13.53.02:147][  0]LogClass: Warning: FUEmotionAnalysisZone::emotionCount is not initialized properly
+[2019.08.06-13.53.02:147][  0]LogClass: Warning: FUKeyToday::keyValue is not initialized properly
+[2019.08.06-13.53.02:147][  0]LogClass: Warning: FUCaseReportRate::caseCount is not initialized properly
+[2019.08.06-13.53.02:148][  0]LogClass: Warning: FUCaseRatio::caseCount is not initialized properly
+[2019.08.06-13.53.02:148][  0]LogClass: Warning: FUCaseDeal::caseCount is not initialized properly
+[2019.08.06-13.53.02:148][  0]LogClass: Warning: FUCaseSource::caseCount is not initialized properly
+[2019.08.06-13.53.02:148][  0]LogClass: Warning: FUAreaBlackList::eventCount is not initialized properly
+[2019.08.06-13.53.02:149][  0]LogClass: Warning: FUAreaBlackList::flowCount is not initialized properly
+[2019.08.06-13.53.02:150][  0]LogClass: Display: 14 Uninitialized script stuct members found
+[2019.08.06-13.53.02:159][  0]LogAutomationTest: Warning: FUPeopleRateAnalysis::analysisRatio is not initialized properly
+[2019.08.06-13.53.02:159][  0]LogAutomationTest: Warning: FUExceptionRate::eventCount is not initialized properly
+[2019.08.06-13.53.02:160][  0]LogAutomationTest: Warning: FUExceptionCount::eventCount is not initialized properly
+[2019.08.06-13.53.02:160][  0]LogAutomationTest: Warning: FUExceptionHighFrequency::timeValue is not initialized properly
+[2019.08.06-13.53.02:160][  0]LogAutomationTest: Warning: FUImportantAreaExceptionAnalysisZone::eventCount is not initialized properly
+[2019.08.06-13.53.02:160][  0]LogAutomationTest: Warning: FUImportantAreaMonitorTime::eventCount is not initialized properly
+[2019.08.06-13.53.02:161][  0]LogAutomationTest: Warning: FUEmotionAnalysisZone::emotionCount is not initialized properly
+[2019.08.06-13.53.02:161][  0]LogAutomationTest: Warning: FUKeyToday::keyValue is not initialized properly
+[2019.08.06-13.53.02:161][  0]LogAutomationTest: Warning: FUCaseReportRate::caseCount is not initialized properly
+[2019.08.06-13.53.02:162][  0]LogAutomationTest: Warning: FUCaseRatio::caseCount is not initialized properly
+[2019.08.06-13.53.02:162][  0]LogAutomationTest: Warning: FUCaseDeal::caseCount is not initialized properly
+[2019.08.06-13.53.02:162][  0]LogAutomationTest: Warning: FUCaseSource::caseCount is not initialized properly
+[2019.08.06-13.53.02:162][  0]LogAutomationTest: Warning: FUAreaBlackList::eventCount is not initialized properly
+[2019.08.06-13.53.02:163][  0]LogAutomationTest: Warning: FUAreaBlackList::flowCount is not initialized properly
+[2019.08.06-13.53.02:170][  0]LogEngine: Initializing Engine...
+[2019.08.06-13.53.02:182][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.06-13.53.02:189][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2019.08.06-13.53.02:733][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.06-13.53.02:844][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.06-13.53.02:989][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.06-13.53.03:814][  0]LogInit: FAudioDevice initialized.
+[2019.08.06-13.53.03:815][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.06-13.53.04:136][  0]LogDerivedDataCache: Saved boot cache 0.32s 71MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.06-13.53.04:153][  0]LogInit: Texture streaming: Enabled
+[2019.08.06-13.53.04:357][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.06-13.53.04:357][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Debugger, SessionId={809F6F07-4A9F-0ED8-DAFE-48B0F6891F96}
+[2019.08.06-13.53.04:502][  0]LogInit: Transaction tracking system initialized
+[2019.08.06-13.53.04:748][  0]BlueprintLog: New page: 编辑器加载
+[2019.08.06-13.53.05:502][  0]LocalizationService: 本地化服务已禁用
+[2019.08.06-13.53.06:752][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/zhihui/Content/' took 0.02s
+[2019.08.06-13.53.06:752][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.06-13.53.06:753][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.06-13.53.07:912][  0]SourceControl: 源码控制已禁用
+[2019.08.06-13.53.07:916][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.06-13.53.07:921][  0]LightingResults: New page: 光照构建
+[2019.08.06-13.53.07:943][  0]MapCheck: New page: 地图检测
+[2019.08.06-13.53.07:943][  0]LightingResults: New page: 光照构建
+[2019.08.06-13.53.08:015][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.08.06-13.53.08:419][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.08.06-13.53.08:486][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.06-13.53.08:530][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.08.06-13.53.08:531][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.06-13.53.08:533][  0]MapCheck: 地图检测完成：0个错误，0 个警告，用时1.554毫秒完成。
+[2019.08.06-13.53.08:533][  0]LogFileHelpers: Loading map 'Template_Default' took 0.620
+[2019.08.06-13.53.08:871][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.06-13.53.08:897][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.06-13.53.08:921][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.06-13.53.08:946][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.06-13.53.09:088][  0]LogSlate: Took 0.001576 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.06-13.53.09:116][  0]LogSlate: Took 0.019631 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.08.06-13.53.09:120][  0]LogSlate: Took 0.001404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.06-13.53.09:133][  0]LogSlate: Took 0.001408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.06-13.53.09:135][  0]LogSlate: Took 0.001108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.08.06-13.53.09:547][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.08.06-13.53.10:228][  0]LogLoad: (Engine Initialization) Total time: 45.42 seconds
+[2019.08.06-13.53.10:229][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.01 seconds
+[2019.08.06-13.53.10:255][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.06-13.53.10:330][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.06-13.53.10:418][  1]LogAssetRegistry: Asset discovery search completed in 21.5078 seconds
+[2019.08.06-13.53.10:461][  1]LogCollectionManager: Loaded 0 collections in 0.009766 seconds
+[2019.08.06-13.53.10:515][  1]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/zhihui/Saved/Collections/' took 0.02s
+[2019.08.06-13.53.10:516][  1]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/zhihui/Content/Developers/Administrator/Collections/' took 0.02s
+[2019.08.06-13.53.10:518][  1]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/zhihui/Content/Collections/' took 0.02s
+[2019.08.06-13.53.10:519][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.06-13.53.10:519][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.004355 seconds (updated 0 objects)
+[2019.08.06-13.53.12:212][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-13.53.13:497][161]LogSlate: Took 0.001464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.06-13.53.13:501][161]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-13.53.13:622][161]LogContentBrowser: Native class hierarchy populated in 0.0303 seconds. Added 2739 classes and 663 folders.
+[2019.08.06-13.53.13:650][161]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-13.53.13:671][161]LogSlate: Took 0.001789 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.06-13.53.32:687][949]Candidate modules for hot reload:
+[2019.08.06-13.53.32:688][949]  zhihui
+[2019.08.06-13.53.32:690][949]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=zhihui,617 Win64 Development -TargetType=Editor -Project="C:/Users/Administrator/Documents/Unreal Projects/zhihui/zhihui.uproject" "C:/Users/Administrator/Documents/Unreal Projects/zhihui/zhihui.uproject"  -IgnoreJunk]
+[2019.08.06-13.54.51:506][949]CompilerResultsLog: New page: 编译- 2019年8月7日 上午5:54:51
+[2019.08.06-13.54.51:508][949]CompilerResultsLog: Creating makefile for zhihuiEditor (ini files are newer than makefile)
+[2019.08.06-13.54.51:508][949]CompilerResultsLog: Parsing headers for zhihuiEditor
+[2019.08.06-13.54.51:509][949]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Administrator\Documents\Unreal Projects\zhihui\zhihui.uproject" "C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\zhihuiEditor\Development\zhihuiEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.08.06-13.54.51:510][949]CompilerResultsLog: Reflection code generated for zhihuiEditor in 19.8029343 seconds
+[2019.08.06-13.54.51:510][949]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-13.54.51:511][949]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-13.54.51:515][949]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ܾ (U+073e)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2019.08.06-13.54.51:516][949]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ܾ (U+073e)'
+[2019.08.06-13.54.51:545][949]LogSlate: Took 0.023249 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2019.08.06-13.54.51:548][949]CompilerResultsLog: Attempting to retry...
+[2019.08.06-13.54.51:550][949]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-13.54.51:551][949]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-13.54.51:552][949]CompilerResultsLog: Attempting to retry...
+[2019.08.06-13.54.51:553][949]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-13.54.51:553][949]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-13.54.51:554][949]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.08.06-13.54.51:555][949]CompilerResultsLog: Using Visual Studio 2019 14.22.27905 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.08.06-13.54.51:556][949]CompilerResultsLog: Distributing 6 actions to XGE
+[2019.08.06-13.54.51:556][949]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.08.06-13.54.51:557][949]CompilerResultsLog: License is invalid:
+[2019.08.06-13.54.51:557][949]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.08.06-13.54.51:559][949]CompilerResultsLog:     This build will run in standalone mode.
+[2019.08.06-13.54.51:560][949]CompilerResultsLog: 
+[2019.08.06-13.54.51:560][949]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.08.06-13.54.51:562][949]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.08.06-13.54.51:563][949]CompilerResultsLog: zhihui.init.gen.cpp (0:28.64 at +0:00)
+[2019.08.06-13.54.51:564][949]CompilerResultsLog: ShexiangtouAPI.gen.cpp (0:05.04 at +0:28)
+[2019.08.06-13.54.51:565][949]CompilerResultsLog: ShexiangtouAPI.cpp (0:03.78 at +0:33)
+[2019.08.06-13.54.51:565][949]CompilerResultsLog: UE4Editor-zhihui-0617.dll (0:02.59 at +0:37)
+[2019.08.06-13.54.51:566][949]CompilerResultsLog:   ???ڴ????? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-0617.suppressed.lib ?Ͷ??? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-0617.suppressed.exp
+[2019.08.06-13.54.51:570][949]LogSlate: Took 0.001722 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2019.08.06-13.54.51:578][949]CompilerResultsLog: UE4Editor-zhihui-0617.lib (0:01.01 at +0:40)
+[2019.08.06-13.54.51:578][949]CompilerResultsLog:   ???ڴ????? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-0617.lib ?Ͷ??? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-0617.exp
+[2019.08.06-13.54.51:580][949]CompilerResultsLog: zhihuiEditor.target (0:00.96 at +0:41)
+[2019.08.06-13.54.51:580][949]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.08.06-13.54.51:581][949]CompilerResultsLog: 
+[2019.08.06-13.54.51:581][949]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.08.06-13.54.51:581][949]CompilerResultsLog: 
+[2019.08.06-13.54.51:581][949]CompilerResultsLog: 1 build system warning(s):
+[2019.08.06-13.54.51:582][949]CompilerResultsLog:    - License is invalid
+[2019.08.06-13.54.51:582][949]CompilerResultsLog: 
+[2019.08.06-13.54.51:582][949]CompilerResultsLog: Total time in XGE executor: 43.67 seconds
+[2019.08.06-13.54.51:583][949]CompilerResultsLog: Total execution time: 78.02 seconds
+[2019.08.06-13.54.51:584][949]LogMainFrame: MainFrame: Module compiling took 78.924 seconds
+[2019.08.06-13.54.51:642][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.08.06-13.54.51:666][949]LogContentBrowser: Native class hierarchy populated in 0.0216 seconds. Added 2739 classes and 663 folders.
+[2019.08.06-13.54.51:678][949]Display: HotReload took 83.8s.
+[2019.08.06-13.54.51:681][949]Warning: HotReload operation took 83.8s.
+[2019.08.06-13.54.54:031][949]LogSlate: Window '添加C++类' being destroyed
+[2019.08.06-13.54.54:056][949]LogHotReload: New module detected: UE4Editor-zhihui-0617.dll
+[2019.08.06-13.54.54:160][950]LogHotReload: Starting Hot-Reload from IDE
+[2019.08.06-13.54.54:252][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.08.06-13.54.54:444][950]LogClass: Could not find existing class ShexiangtouAPI in package /Script/zhihui for HotReload, assuming new class
+[2019.08.06-13.54.54:453][950]LogClass: UPeopleRateAnalysis HotReload.
+[2019.08.06-13.54.54:455][950]LogClass: UPeopleRate HotReload.
+[2019.08.06-13.54.54:457][950]LogClass: UPeopleNumber HotReload.
+[2019.08.06-13.54.54:458][950]LogClass: UExceptionRate HotReload.
+[2019.08.06-13.54.54:459][950]LogClass: UExceptionCount HotReload.
+[2019.08.06-13.54.54:460][950]LogClass: UExceptionHighFrequency HotReload.
+[2019.08.06-13.54.54:461][950]LogClass: UImportantAreaExceptionAnalysisZone HotReload.
+[2019.08.06-13.54.54:461][950]LogClass: UImportantAreaExceptionAnalysis HotReload.
+[2019.08.06-13.54.54:462][950]LogClass: UImportantAreaMonitorTime HotReload.
+[2019.08.06-13.54.54:462][950]LogClass: UImportantAreaMonitor HotReload.
+[2019.08.06-13.54.54:463][950]LogClass: UEmotionAnalysisZone HotReload.
+[2019.08.06-13.54.54:464][950]LogClass: UEmotionAnalysis HotReload.
+[2019.08.06-13.54.54:464][950]LogClass: UKeyToday HotReload.
+[2019.08.06-13.54.54:465][950]LogClass: UCaseReportRate HotReload.
+[2019.08.06-13.54.54:466][950]LogClass: UCaseRatio HotReload.
+[2019.08.06-13.54.54:466][950]LogClass: UCaseDeal HotReload.
+[2019.08.06-13.54.54:467][950]LogClass: UCaseSource HotReload.
+[2019.08.06-13.54.54:467][950]LogClass: UAreaBlackList HotReload.
+[2019.08.06-13.54.54:483][950]LogContentBrowser: Native class hierarchy updated for 'zhihui' in 0.0050 seconds. Added 7 classes and 2 folders.
+[2019.08.06-13.54.54:491][950]Display: HotReload successful (5 functions remapped  18 scriptstructs remapped)
+[2019.08.06-13.54.54:701][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.08.06-13.54.54:731][950]LogContentBrowser: Native class hierarchy populated in 0.0287 seconds. Added 2740 classes and 663 folders.
+[2019.08.06-13.54.54:746][950]Display: HotReload took  0.6s.
+[2019.08.06-13.55.01:911][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-13.55.03:052][153]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-13.55.05:281][269]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-13.55.10:256][560]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (15.501 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.06-13.55.14:204][706]Candidate modules for hot reload:
+[2019.08.06-13.55.14:205][706]  zhihui
+[2019.08.06-13.55.14:207][706]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=zhihui,252 Win64 Development -TargetType=Editor -Project="C:/Users/Administrator/Documents/Unreal Projects/zhihui/zhihui.uproject" "C:/Users/Administrator/Documents/Unreal Projects/zhihui/zhihui.uproject"  -IgnoreJunk]
+[2019.08.06-13.56.05:200][706]CompilerResultsLog: New page: 编译- 2019年8月7日 上午5:56:05
+[2019.08.06-13.56.05:202][706]CompilerResultsLog: Invalidating makefile for zhihuiEditor (source file added)
+[2019.08.06-13.56.05:203][706]CompilerResultsLog: Parsing headers for zhihuiEditor
+[2019.08.06-13.56.05:203][706]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Administrator\Documents\Unreal Projects\zhihui\zhihui.uproject" "C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\zhihuiEditor\Development\zhihuiEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.08.06-13.56.05:205][706]CompilerResultsLog: Reflection code generated for zhihuiEditor in 20.1852302 seconds
+[2019.08.06-13.56.05:206][706]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-13.56.05:207][706]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-13.56.05:207][706]CompilerResultsLog: Attempting to retry...
+[2019.08.06-13.56.05:208][706]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-13.56.05:209][706]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-13.56.05:210][706]CompilerResultsLog: Attempting to retry...
+[2019.08.06-13.56.05:210][706]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-13.56.05:211][706]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-13.56.05:212][706]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.08.06-13.56.05:213][706]CompilerResultsLog: Using Visual Studio 2019 14.22.27905 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.08.06-13.56.05:214][706]CompilerResultsLog: Distributing 6 actions to XGE
+[2019.08.06-13.56.05:215][706]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.08.06-13.56.05:216][706]CompilerResultsLog: License is invalid:
+[2019.08.06-13.56.05:216][706]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.08.06-13.56.05:217][706]CompilerResultsLog:     This build will run in standalone mode.
+[2019.08.06-13.56.05:218][706]CompilerResultsLog: 
+[2019.08.06-13.56.05:219][706]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.08.06-13.56.05:220][706]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.08.06-13.56.05:220][706]CompilerResultsLog: zhihui.init.gen.cpp (0:03.57 at +0:00)
+[2019.08.06-13.56.05:221][706]CompilerResultsLog: QitaAPI.gen.cpp (0:04.57 at +0:03)
+[2019.08.06-13.56.05:222][706]CompilerResultsLog: QitaAPI.cpp (0:03.54 at +0:08)
+[2019.08.06-13.56.05:222][706]CompilerResultsLog: UE4Editor-zhihui-0252.dll (0:02.26 at +0:11)
+[2019.08.06-13.56.05:223][706]CompilerResultsLog:   ???ڴ????? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-0252.suppressed.lib ?Ͷ??? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-0252.suppressed.exp
+[2019.08.06-13.56.05:225][706]CompilerResultsLog: UE4Editor-zhihui-0252.lib (0:01.00 at +0:14)
+[2019.08.06-13.56.05:226][706]CompilerResultsLog:   ???ڴ????? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-0252.lib ?Ͷ??? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-0252.exp
+[2019.08.06-13.56.05:228][706]CompilerResultsLog: zhihuiEditor.target (0:01.04 at +0:15)
+[2019.08.06-13.56.05:228][706]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.08.06-13.56.05:229][706]CompilerResultsLog: 
+[2019.08.06-13.56.05:229][706]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.08.06-13.56.05:230][706]CompilerResultsLog: 
+[2019.08.06-13.56.05:230][706]CompilerResultsLog: 1 build system warning(s):
+[2019.08.06-13.56.05:231][706]CompilerResultsLog:    - License is invalid
+[2019.08.06-13.56.05:232][706]CompilerResultsLog: 
+[2019.08.06-13.56.05:232][706]CompilerResultsLog: Total time in XGE executor: 17.13 seconds
+[2019.08.06-13.56.05:233][706]CompilerResultsLog: Total execution time: 50.45 seconds
+[2019.08.06-13.56.05:234][706]LogMainFrame: MainFrame: Module compiling took 51.034 seconds
+[2019.08.06-13.56.05:275][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.08.06-13.56.05:295][706]LogContentBrowser: Native class hierarchy populated in 0.0195 seconds. Added 2740 classes and 663 folders.
+[2019.08.06-13.56.05:313][706]Display: HotReload took 51.2s.
+[2019.08.06-13.56.05:315][706]Warning: HotReload operation took 51.2s.
+[2019.08.06-13.56.06:601][706]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/Administrator/Documents/Unreal Projects/zhihui/Source/zhihui/QitaAPI.cpp'
+[2019.08.06-13.56.06:606][706]LogSlate: Window '添加C++类' being destroyed
+[2019.08.06-13.56.06:637][706]LogHotReload: New module detected: UE4Editor-zhihui-0252.dll
+[2019.08.06-13.56.06:695][707]LogHotReload: Starting Hot-Reload from IDE
+[2019.08.06-13.56.06:756][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.08.06-13.56.06:796][707]LogClass: Could not find existing class QitaAPI in package /Script/zhihui for HotReload, assuming new class
+[2019.08.06-13.56.06:800][707]LogClass: UPeopleRateAnalysis HotReload.
+[2019.08.06-13.56.06:800][707]LogClass: UPeopleRate HotReload.
+[2019.08.06-13.56.06:801][707]LogClass: UPeopleNumber HotReload.
+[2019.08.06-13.56.06:801][707]LogClass: UExceptionRate HotReload.
+[2019.08.06-13.56.06:802][707]LogClass: UExceptionCount HotReload.
+[2019.08.06-13.56.06:802][707]LogClass: UExceptionHighFrequency HotReload.
+[2019.08.06-13.56.06:802][707]LogClass: UImportantAreaExceptionAnalysisZone HotReload.
+[2019.08.06-13.56.06:803][707]LogClass: UImportantAreaExceptionAnalysis HotReload.
+[2019.08.06-13.56.06:803][707]LogClass: UImportantAreaMonitorTime HotReload.
+[2019.08.06-13.56.06:803][707]LogClass: UImportantAreaMonitor HotReload.
+[2019.08.06-13.56.06:804][707]LogClass: UEmotionAnalysisZone HotReload.
+[2019.08.06-13.56.06:804][707]LogClass: UEmotionAnalysis HotReload.
+[2019.08.06-13.56.06:804][707]LogClass: UKeyToday HotReload.
+[2019.08.06-13.56.06:805][707]LogClass: UCaseReportRate HotReload.
+[2019.08.06-13.56.06:805][707]LogClass: UCaseRatio HotReload.
+[2019.08.06-13.56.06:805][707]LogClass: UCaseDeal HotReload.
+[2019.08.06-13.56.06:806][707]LogClass: UCaseSource HotReload.
+[2019.08.06-13.56.06:806][707]LogClass: UAreaBlackList HotReload.
+[2019.08.06-13.56.06:813][707]LogContentBrowser: Native class hierarchy updated for 'zhihui' in 0.0036 seconds. Added 8 classes and 2 folders.
+[2019.08.06-13.56.06:816][707]Display: HotReload successful (5 functions remapped  18 scriptstructs remapped)
+[2019.08.06-13.56.06:885][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.08.06-13.56.06:898][707]LogContentBrowser: Native class hierarchy populated in 0.0122 seconds. Added 2741 classes and 663 folders.
+[2019.08.06-13.56.06:907][707]Display: HotReload took  0.2s.
+[2019.08.06-14.01.26:013][736]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-14.01.27:032][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-14.01.28:871][890]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-14.01.37:916][403]Candidate modules for hot reload:
+[2019.08.06-14.01.37:917][403]  zhihui
+[2019.08.06-14.01.37:918][403]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=zhihui,9149 Win64 Development -TargetType=Editor -Project="C:/Users/Administrator/Documents/Unreal Projects/zhihui/zhihui.uproject" "C:/Users/Administrator/Documents/Unreal Projects/zhihui/zhihui.uproject"  -IgnoreJunk]
+[2019.08.06-14.02.33:291][403]CompilerResultsLog: New page: 编译- 2019年8月7日 上午6:02:33
+[2019.08.06-14.02.33:292][403]CompilerResultsLog: Invalidating makefile for zhihuiEditor (source file added)
+[2019.08.06-14.02.33:293][403]CompilerResultsLog: Parsing headers for zhihuiEditor
+[2019.08.06-14.02.33:293][403]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Administrator\Documents\Unreal Projects\zhihui\zhihui.uproject" "C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\zhihuiEditor\Development\zhihuiEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.08.06-14.02.33:294][403]CompilerResultsLog: Reflection code generated for zhihuiEditor in 21.6426692 seconds
+[2019.08.06-14.02.33:295][403]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-14.02.33:296][403]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-14.02.33:296][403]CompilerResultsLog: Attempting to retry...
+[2019.08.06-14.02.33:297][403]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-14.02.33:298][403]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-14.02.33:299][403]CompilerResultsLog: Attempting to retry...
+[2019.08.06-14.02.33:300][403]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-14.02.33:300][403]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-14.02.33:302][403]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.08.06-14.02.33:303][403]CompilerResultsLog: Using Visual Studio 2019 14.22.27905 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.08.06-14.02.33:304][403]CompilerResultsLog: Distributing 6 actions to XGE
+[2019.08.06-14.02.33:305][403]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.08.06-14.02.33:305][403]CompilerResultsLog: License is invalid:
+[2019.08.06-14.02.33:306][403]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.08.06-14.02.33:307][403]CompilerResultsLog:     This build will run in standalone mode.
+[2019.08.06-14.02.33:308][403]CompilerResultsLog: 
+[2019.08.06-14.02.33:308][403]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.08.06-14.02.33:309][403]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.08.06-14.02.33:310][403]CompilerResultsLog: zhihui.init.gen.cpp (0:04.34 at +0:00)
+[2019.08.06-14.02.33:311][403]CompilerResultsLog: BaoanchaxunAPI.gen.cpp (0:04.07 at +0:04)
+[2019.08.06-14.02.33:312][403]CompilerResultsLog: BaoanchaxunAPI.cpp (0:03.18 at +0:08)
+[2019.08.06-14.02.33:314][403]CompilerResultsLog: UE4Editor-zhihui-9149.dll (0:02.25 at +0:11)
+[2019.08.06-14.02.33:315][403]CompilerResultsLog:   ???ڴ????? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-9149.suppressed.lib ?Ͷ??? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-9149.suppressed.exp
+[2019.08.06-14.02.33:316][403]CompilerResultsLog: UE4Editor-zhihui-9149.lib (0:00.98 at +0:14)
+[2019.08.06-14.02.33:318][403]CompilerResultsLog:   ???ڴ????? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-9149.lib ?Ͷ??? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-9149.exp
+[2019.08.06-14.02.33:319][403]CompilerResultsLog: zhihuiEditor.target (0:00.92 at +0:15)
+[2019.08.06-14.02.33:320][403]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.08.06-14.02.33:321][403]CompilerResultsLog: 
+[2019.08.06-14.02.33:322][403]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.08.06-14.02.33:322][403]CompilerResultsLog: 
+[2019.08.06-14.02.33:323][403]CompilerResultsLog: 1 build system warning(s):
+[2019.08.06-14.02.33:325][403]CompilerResultsLog:    - License is invalid
+[2019.08.06-14.02.33:325][403]CompilerResultsLog: 
+[2019.08.06-14.02.33:325][403]CompilerResultsLog: Total time in XGE executor: 17.20 seconds
+[2019.08.06-14.02.33:326][403]CompilerResultsLog: Total execution time: 54.81 seconds
+[2019.08.06-14.02.33:327][403]LogMainFrame: MainFrame: Module compiling took 55.416 seconds
+[2019.08.06-14.02.33:363][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.08.06-14.02.33:411][403]LogClass: Could not find existing class BaoanchaxunAPI in package /Script/zhihui for HotReload, assuming new class
+[2019.08.06-14.02.33:430][403]LogClass: UPeopleRateAnalysis HotReload.
+[2019.08.06-14.02.33:431][403]LogClass: UPeopleRate HotReload.
+[2019.08.06-14.02.33:432][403]LogClass: UPeopleNumber HotReload.
+[2019.08.06-14.02.33:432][403]LogClass: UExceptionRate HotReload.
+[2019.08.06-14.02.33:433][403]LogClass: UExceptionCount HotReload.
+[2019.08.06-14.02.33:433][403]LogClass: UExceptionHighFrequency HotReload.
+[2019.08.06-14.02.33:434][403]LogClass: UImportantAreaExceptionAnalysisZone HotReload.
+[2019.08.06-14.02.33:434][403]LogClass: UImportantAreaExceptionAnalysis HotReload.
+[2019.08.06-14.02.33:435][403]LogClass: UImportantAreaMonitorTime HotReload.
+[2019.08.06-14.02.33:436][403]LogClass: UImportantAreaMonitor HotReload.
+[2019.08.06-14.02.33:436][403]LogClass: UEmotionAnalysisZone HotReload.
+[2019.08.06-14.02.33:437][403]LogClass: UEmotionAnalysis HotReload.
+[2019.08.06-14.02.33:438][403]LogClass: UKeyToday HotReload.
+[2019.08.06-14.02.33:438][403]LogClass: UCaseReportRate HotReload.
+[2019.08.06-14.02.33:439][403]LogClass: UCaseRatio HotReload.
+[2019.08.06-14.02.33:439][403]LogClass: UCaseDeal HotReload.
+[2019.08.06-14.02.33:440][403]LogClass: UCaseSource HotReload.
+[2019.08.06-14.02.33:440][403]LogClass: UAreaBlackList HotReload.
+[2019.08.06-14.02.33:451][403]LogContentBrowser: Native class hierarchy updated for 'zhihui' in 0.0021 seconds. Added 9 classes and 2 folders.
+[2019.08.06-14.02.33:455][403]Display: HotReload successful (5 functions remapped  18 scriptstructs remapped)
+[2019.08.06-14.02.33:547][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.08.06-14.02.33:567][403]LogContentBrowser: Native class hierarchy populated in 0.0207 seconds. Added 2742 classes and 663 folders.
+[2019.08.06-14.02.33:578][403]Display: HotReload took 55.8s.
+[2019.08.06-14.02.33:580][403]Warning: HotReload operation took 55.8s.
+[2019.08.06-14.02.34:360][403]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-14.02.34:423][403]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.06-14.02.34:657][403]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0043 seconds. Added 0 classes and 0 folders.
+[2019.08.06-14.02.34:671][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:684][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:689][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:693][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:699][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:703][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:708][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:713][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:718][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:724][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:729][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:735][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:741][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:748][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:755][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:762][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:769][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:776][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:782][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:788][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:796][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:805][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:813][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:819][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:828][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.34:839][403]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.06-14.02.35:251][403]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2019.08.06-14.02.35:263][403]LogSlate: Window '添加C++类' being destroyed
+[2019.08.06-14.02.35:296][403]LogHotReload: New module detected: UE4Editor-zhihui-9149.dll
+[2019.08.06-14.02.35:319][403]LogSlate: Took 0.000810 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.06-14.02.35:463][404]LogHotReload: Starting Hot-Reload from IDE
+[2019.08.06-14.02.35:541][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.08.06-14.02.35:552][404]LogContentBrowser: Native class hierarchy updated for 'zhihui' in 0.0018 seconds. Added 9 classes and 2 folders.
+[2019.08.06-14.02.35:557][404]Display: HotReload successful (0 functions remapped  18 scriptstructs remapped)
+[2019.08.06-14.02.35:598][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.08.06-14.02.35:615][404]LogContentBrowser: Native class hierarchy populated in 0.0172 seconds. Added 2742 classes and 663 folders.
+[2019.08.06-14.02.35:628][404]Display: HotReload took  0.2s.
+[2019.08.06-14.02.44:364][543]LogSlate: Window 'Content Browser' being destroyed
+[2019.08.06-14.02.44:383][543]LogSlate: Window 'Content Browser' being destroyed
+[2019.08.06-14.02.45:170][589]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-14.02.46:138][646]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-14.02.48:209][764]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-14.02.57:296][276]Candidate modules for hot reload:
+[2019.08.06-14.02.57:297][276]  zhihui
+[2019.08.06-14.02.57:298][276]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=zhihui,7215 Win64 Development -TargetType=Editor -Project="C:/Users/Administrator/Documents/Unreal Projects/zhihui/zhihui.uproject" "C:/Users/Administrator/Documents/Unreal Projects/zhihui/zhihui.uproject"  -IgnoreJunk]
+[2019.08.06-14.03.47:367][276]CompilerResultsLog: New page: 编译- 2019年8月7日 上午6:03:47
+[2019.08.06-14.03.47:368][276]CompilerResultsLog: Invalidating makefile for zhihuiEditor (source file added)
+[2019.08.06-14.03.47:369][276]CompilerResultsLog: Parsing headers for zhihuiEditor
+[2019.08.06-14.03.47:370][276]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Administrator\Documents\Unreal Projects\zhihui\zhihui.uproject" "C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\zhihuiEditor\Development\zhihuiEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.08.06-14.03.47:372][276]CompilerResultsLog: Reflection code generated for zhihuiEditor in 20.2037951 seconds
+[2019.08.06-14.03.47:373][276]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-14.03.47:374][276]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-14.03.47:375][276]CompilerResultsLog: Attempting to retry...
+[2019.08.06-14.03.47:375][276]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-14.03.47:377][276]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-14.03.47:377][276]CompilerResultsLog: Attempting to retry...
+[2019.08.06-14.03.47:378][276]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-14.03.47:378][276]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-14.03.47:380][276]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.08.06-14.03.47:381][276]CompilerResultsLog: Using Visual Studio 2019 14.22.27905 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.08.06-14.03.47:383][276]CompilerResultsLog: Distributing 6 actions to XGE
+[2019.08.06-14.03.47:384][276]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.08.06-14.03.47:385][276]CompilerResultsLog: License is invalid:
+[2019.08.06-14.03.47:386][276]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.08.06-14.03.47:387][276]CompilerResultsLog:     This build will run in standalone mode.
+[2019.08.06-14.03.47:388][276]CompilerResultsLog: 
+[2019.08.06-14.03.47:389][276]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.08.06-14.03.47:389][276]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.08.06-14.03.47:390][276]CompilerResultsLog: zhihui.init.gen.cpp (0:03.76 at +0:00)
+[2019.08.06-14.03.47:391][276]CompilerResultsLog: TongjiAPI.gen.cpp (0:03.98 at +0:03)
+[2019.08.06-14.03.47:391][276]CompilerResultsLog: TongjiAPI.cpp (0:03.57 at +0:07)
+[2019.08.06-14.03.47:392][276]CompilerResultsLog: UE4Editor-zhihui-7215.dll (0:02.09 at +0:11)
+[2019.08.06-14.03.47:393][276]CompilerResultsLog:   ???ڴ????? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-7215.suppressed.lib ?Ͷ??? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-7215.suppressed.exp
+[2019.08.06-14.03.47:395][276]CompilerResultsLog: UE4Editor-zhihui-7215.lib (0:00.92 at +0:13)
+[2019.08.06-14.03.47:395][276]CompilerResultsLog:   ???ڴ????? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-7215.lib ?Ͷ??? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-7215.exp
+[2019.08.06-14.03.47:397][276]CompilerResultsLog: zhihuiEditor.target (0:00.98 at +0:14)
+[2019.08.06-14.03.47:398][276]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.08.06-14.03.47:398][276]CompilerResultsLog: 
+[2019.08.06-14.03.47:399][276]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.08.06-14.03.47:399][276]CompilerResultsLog: 
+[2019.08.06-14.03.47:400][276]CompilerResultsLog: 1 build system warning(s):
+[2019.08.06-14.03.47:400][276]CompilerResultsLog:    - License is invalid
+[2019.08.06-14.03.47:401][276]CompilerResultsLog: 
+[2019.08.06-14.03.47:401][276]CompilerResultsLog: Total time in XGE executor: 16.66 seconds
+[2019.08.06-14.03.47:402][276]CompilerResultsLog: Total execution time: 49.61 seconds
+[2019.08.06-14.03.47:403][276]LogMainFrame: MainFrame: Module compiling took 50.110 seconds
+[2019.08.06-14.03.47:444][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.08.06-14.03.47:490][276]LogClass: Could not find existing class TongjiAPI in package /Script/zhihui for HotReload, assuming new class
+[2019.08.06-14.03.47:494][276]LogClass: UPeopleRateAnalysis HotReload.
+[2019.08.06-14.03.47:495][276]LogClass: UPeopleRate HotReload.
+[2019.08.06-14.03.47:496][276]LogClass: UPeopleNumber HotReload.
+[2019.08.06-14.03.47:496][276]LogClass: UExceptionRate HotReload.
+[2019.08.06-14.03.47:497][276]LogClass: UExceptionCount HotReload.
+[2019.08.06-14.03.47:497][276]LogClass: UExceptionHighFrequency HotReload.
+[2019.08.06-14.03.47:498][276]LogClass: UImportantAreaExceptionAnalysisZone HotReload.
+[2019.08.06-14.03.47:498][276]LogClass: UImportantAreaExceptionAnalysis HotReload.
+[2019.08.06-14.03.47:499][276]LogClass: UImportantAreaMonitorTime HotReload.
+[2019.08.06-14.03.47:499][276]LogClass: UImportantAreaMonitor HotReload.
+[2019.08.06-14.03.47:499][276]LogClass: UEmotionAnalysisZone HotReload.
+[2019.08.06-14.03.47:500][276]LogClass: UEmotionAnalysis HotReload.
+[2019.08.06-14.03.47:501][276]LogClass: UKeyToday HotReload.
+[2019.08.06-14.03.47:501][276]LogClass: UCaseReportRate HotReload.
+[2019.08.06-14.03.47:502][276]LogClass: UCaseRatio HotReload.
+[2019.08.06-14.03.47:502][276]LogClass: UCaseDeal HotReload.
+[2019.08.06-14.03.47:503][276]LogClass: UCaseSource HotReload.
+[2019.08.06-14.03.47:503][276]LogClass: UAreaBlackList HotReload.
+[2019.08.06-14.03.47:510][276]LogContentBrowser: Native class hierarchy updated for 'zhihui' in 0.0019 seconds. Added 10 classes and 2 folders.
+[2019.08.06-14.03.47:515][276]Display: HotReload successful (5 functions remapped  18 scriptstructs remapped)
+[2019.08.06-14.03.47:604][276]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.08.06-14.03.47:622][276]LogContentBrowser: Native class hierarchy populated in 0.0182 seconds. Added 2743 classes and 663 folders.
+[2019.08.06-14.03.47:630][276]Display: HotReload took 50.4s.
+[2019.08.06-14.03.47:632][276]Warning: HotReload operation took 50.4s.
+[2019.08.06-14.03.48:293][276]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/Administrator/Documents/Unreal Projects/zhihui/Source/zhihui/TongjiAPI.h'
+[2019.08.06-14.03.48:694][276]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-14.03.48:735][276]LogSlate: Window '添加C++类' being destroyed
+[2019.08.06-14.03.48:808][277]LogHotReload: New module detected: UE4Editor-zhihui-7215.dll
+[2019.08.06-14.03.48:864][278]LogHotReload: Starting Hot-Reload from IDE
+[2019.08.06-14.03.48:925][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.08.06-14.03.48:932][278]LogContentBrowser: Native class hierarchy updated for 'zhihui' in 0.0012 seconds. Added 10 classes and 2 folders.
+[2019.08.06-14.03.48:936][278]Display: HotReload successful (0 functions remapped  18 scriptstructs remapped)
+[2019.08.06-14.03.48:969][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.08.06-14.03.48:986][278]LogContentBrowser: Native class hierarchy populated in 0.0181 seconds. Added 2743 classes and 663 folders.
+[2019.08.06-14.03.49:023][278]Display: HotReload took  0.2s.
+[2019.08.06-14.04.10:393][341]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (21.589 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.06-14.04.25:229][428]LogSlate: Window 'Content Browser' being destroyed
+[2019.08.06-14.04.25:251][428]LogSlate: Window 'Content Browser' being destroyed
+[2019.08.06-14.04.26:204][483]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-14.04.27:419][549]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-14.04.29:104][636]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-14.04.40:105][250]Candidate modules for hot reload:
+[2019.08.06-14.04.40:105][250]  zhihui
+[2019.08.06-14.04.40:107][250]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=zhihui,1099 Win64 Development -TargetType=Editor -Project="C:/Users/Administrator/Documents/Unreal Projects/zhihui/zhihui.uproject" "C:/Users/Administrator/Documents/Unreal Projects/zhihui/zhihui.uproject"  -IgnoreJunk]
+[2019.08.06-14.06.23:772][250]CompilerResultsLog: New page: 编译- 2019年8月7日 上午6:06:23
+[2019.08.06-14.06.23:773][250]CompilerResultsLog: Invalidating makefile for zhihuiEditor (source file added)
+[2019.08.06-14.06.23:774][250]CompilerResultsLog: Parsing headers for zhihuiEditor
+[2019.08.06-14.06.23:775][250]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Administrator\Documents\Unreal Projects\zhihui\zhihui.uproject" "C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\zhihuiEditor\Development\zhihuiEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.08.06-14.06.23:776][250]CompilerResultsLog: Reflection code generated for zhihuiEditor in 22.6281854 seconds
+[2019.08.06-14.06.23:776][250]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-14.06.23:777][250]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-14.06.23:778][250]CompilerResultsLog: Attempting to retry...
+[2019.08.06-14.06.23:778][250]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-14.06.23:779][250]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-14.06.23:780][250]CompilerResultsLog: Attempting to retry...
+[2019.08.06-14.06.23:780][250]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-14.06.23:781][250]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-14.06.23:782][250]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.08.06-14.06.23:783][250]CompilerResultsLog: Using Visual Studio 2019 14.22.27905 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.08.06-14.06.23:784][250]CompilerResultsLog: Distributing 6 actions to XGE
+[2019.08.06-14.06.23:784][250]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.08.06-14.06.23:786][250]CompilerResultsLog: License is invalid:
+[2019.08.06-14.06.23:786][250]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.08.06-14.06.23:787][250]CompilerResultsLog:     This build will run in standalone mode.
+[2019.08.06-14.06.23:788][250]CompilerResultsLog: 
+[2019.08.06-14.06.23:788][250]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.08.06-14.06.23:789][250]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.08.06-14.06.23:789][250]CompilerResultsLog: zhihui.init.gen.cpp (0:52.21 at +0:00)
+[2019.08.06-14.06.23:790][250]CompilerResultsLog: HeimingdanAPI.gen.cpp (0:04.59 at +0:52)
+[2019.08.06-14.06.23:791][250]CompilerResultsLog: HeimingdanAPI.cpp (0:03.40 at +0:57)
+[2019.08.06-14.06.23:791][250]CompilerResultsLog: UE4Editor-zhihui-1099.dll (0:02.00 at +1:00)
+[2019.08.06-14.06.23:792][250]CompilerResultsLog:   ???ڴ????? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-1099.suppressed.lib ?Ͷ??? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-1099.suppressed.exp
+[2019.08.06-14.06.23:794][250]CompilerResultsLog: UE4Editor-zhihui-1099.lib (0:00.89 at +1:02)
+[2019.08.06-14.06.23:794][250]CompilerResultsLog:   ???ڴ????? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-1099.lib ?Ͷ??? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-1099.exp
+[2019.08.06-14.06.23:796][250]CompilerResultsLog: zhihuiEditor.target (0:00.93 at +1:03)
+[2019.08.06-14.06.23:797][250]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.08.06-14.06.23:797][250]CompilerResultsLog: 
+[2019.08.06-14.06.23:798][250]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.08.06-14.06.23:799][250]CompilerResultsLog: 
+[2019.08.06-14.06.23:800][250]CompilerResultsLog: 1 build system warning(s):
+[2019.08.06-14.06.23:800][250]CompilerResultsLog:    - License is invalid
+[2019.08.06-14.06.23:805][250]CompilerResultsLog: 
+[2019.08.06-14.06.23:806][250]CompilerResultsLog: Total time in XGE executor: 66.17 seconds
+[2019.08.06-14.06.23:807][250]CompilerResultsLog: Total execution time: 103.18 seconds
+[2019.08.06-14.06.23:809][250]LogMainFrame: MainFrame: Module compiling took 103.709 seconds
+[2019.08.06-14.06.23:848][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.08.06-14.06.23:947][250]LogClass: Could not find existing class HeimingdanAPI in package /Script/zhihui for HotReload, assuming new class
+[2019.08.06-14.06.23:971][250]LogClass: UPeopleRateAnalysis HotReload.
+[2019.08.06-14.06.23:973][250]LogClass: UPeopleRate HotReload.
+[2019.08.06-14.06.23:973][250]LogClass: UPeopleNumber HotReload.
+[2019.08.06-14.06.23:974][250]LogClass: UExceptionRate HotReload.
+[2019.08.06-14.06.23:975][250]LogClass: UExceptionCount HotReload.
+[2019.08.06-14.06.23:977][250]LogClass: UExceptionHighFrequency HotReload.
+[2019.08.06-14.06.23:978][250]LogClass: UImportantAreaExceptionAnalysisZone HotReload.
+[2019.08.06-14.06.23:979][250]LogClass: UImportantAreaExceptionAnalysis HotReload.
+[2019.08.06-14.06.23:980][250]LogClass: UImportantAreaMonitorTime HotReload.
+[2019.08.06-14.06.23:981][250]LogClass: UImportantAreaMonitor HotReload.
+[2019.08.06-14.06.23:982][250]LogClass: UEmotionAnalysisZone HotReload.
+[2019.08.06-14.06.23:982][250]LogClass: UEmotionAnalysis HotReload.
+[2019.08.06-14.06.23:983][250]LogClass: UKeyToday HotReload.
+[2019.08.06-14.06.23:983][250]LogClass: UCaseReportRate HotReload.
+[2019.08.06-14.06.23:984][250]LogClass: UCaseRatio HotReload.
+[2019.08.06-14.06.23:985][250]LogClass: UCaseDeal HotReload.
+[2019.08.06-14.06.23:985][250]LogClass: UCaseSource HotReload.
+[2019.08.06-14.06.23:986][250]LogClass: UAreaBlackList HotReload.
+[2019.08.06-14.06.23:995][250]LogContentBrowser: Native class hierarchy updated for 'zhihui' in 0.0021 seconds. Added 11 classes and 2 folders.
+[2019.08.06-14.06.24:001][250]Display: HotReload successful (5 functions remapped  18 scriptstructs remapped)
+[2019.08.06-14.06.24:091][250]LogUObjectHash: Compacting FUObjectHashTables data took   7.85ms
+[2019.08.06-14.06.24:115][250]LogContentBrowser: Native class hierarchy populated in 0.0229 seconds. Added 2744 classes and 663 folders.
+[2019.08.06-14.06.24:125][250]Display: HotReload took 104.1s.
+[2019.08.06-14.06.24:130][250]Warning: HotReload operation took 104.1s.
+[2019.08.06-14.06.26:160][250]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/Administrator/Documents/Unreal Projects/zhihui/Source/zhihui/HeimingdanAPI.h'
+[2019.08.06-14.06.26:570][250]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/Administrator/Documents/Unreal Projects/zhihui/Source/zhihui/HeimingdanAPI.cpp'
+[2019.08.06-14.06.26:583][250]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-14.06.26:636][250]LogSlate: Window '添加C++类' being destroyed
+[2019.08.06-14.06.26:702][250]LogHotReload: New module detected: UE4Editor-zhihui-1099.dll
+[2019.08.06-14.06.26:812][251]LogHotReload: Starting Hot-Reload from IDE
+[2019.08.06-14.06.26:912][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.08.06-14.06.26:928][251]LogContentBrowser: Native class hierarchy updated for 'zhihui' in 0.0017 seconds. Added 11 classes and 2 folders.
+[2019.08.06-14.06.26:934][251]Display: HotReload successful (0 functions remapped  18 scriptstructs remapped)
+[2019.08.06-14.06.26:984][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.08.06-14.06.27:010][251]LogContentBrowser: Native class hierarchy populated in 0.0244 seconds. Added 2744 classes and 663 folders.
+[2019.08.06-14.06.27:027][251]Display: HotReload took  0.2s.
+[2019.08.06-14.06.27:040][251]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.06-14.06.37:530][322]LogSlate: Window 'Content Browser' being destroyed
+[2019.08.06-14.06.37:547][322]LogSlate: Window 'Content Browser' being destroyed
+[2019.08.06-14.06.38:618][385]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-14.06.40:174][473]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-14.06.41:988][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-14.06.53:482][991]Candidate modules for hot reload:
+[2019.08.06-14.06.53:482][991]  zhihui
+[2019.08.06-14.06.53:484][991]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=zhihui,9440 Win64 Development -TargetType=Editor -Project="C:/Users/Administrator/Documents/Unreal Projects/zhihui/zhihui.uproject" "C:/Users/Administrator/Documents/Unreal Projects/zhihui/zhihui.uproject"  -IgnoreJunk]
+[2019.08.06-14.07.43:315][991]CompilerResultsLog: New page: 编译- 2019年8月7日 上午6:07:43
+[2019.08.06-14.07.43:316][991]CompilerResultsLog: Invalidating makefile for zhihuiEditor (source file added)
+[2019.08.06-14.07.43:319][991]CompilerResultsLog: Parsing headers for zhihuiEditor
+[2019.08.06-14.07.43:335][991]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Administrator\Documents\Unreal Projects\zhihui\zhihui.uproject" "C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\zhihuiEditor\Development\zhihuiEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.08.06-14.07.43:336][991]CompilerResultsLog: Reflection code generated for zhihuiEditor in 19.6127437 seconds
+[2019.08.06-14.07.43:341][991]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-14.07.43:347][991]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-14.07.43:351][991]CompilerResultsLog: Attempting to retry...
+[2019.08.06-14.07.43:359][991]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-14.07.43:362][991]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-14.07.43:363][991]CompilerResultsLog: Attempting to retry...
+[2019.08.06-14.07.43:366][991]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-14.07.43:372][991]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-14.07.43:376][991]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.08.06-14.07.43:379][991]CompilerResultsLog: Using Visual Studio 2019 14.22.27905 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.08.06-14.07.43:380][991]CompilerResultsLog: Distributing 6 actions to XGE
+[2019.08.06-14.07.43:381][991]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.08.06-14.07.43:381][991]CompilerResultsLog: License is invalid:
+[2019.08.06-14.07.43:382][991]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.08.06-14.07.43:384][991]CompilerResultsLog:     This build will run in standalone mode.
+[2019.08.06-14.07.43:384][991]CompilerResultsLog: 
+[2019.08.06-14.07.43:385][991]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.08.06-14.07.43:386][991]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.08.06-14.07.43:387][991]CompilerResultsLog: zhihui.init.gen.cpp (0:03.73 at +0:00)
+[2019.08.06-14.07.43:388][991]CompilerResultsLog: Yichangshijian.gen.cpp (0:04.17 at +0:03)
+[2019.08.06-14.07.43:388][991]CompilerResultsLog: Yichangshijian.cpp (0:03.15 at +0:08)
+[2019.08.06-14.07.43:389][991]CompilerResultsLog: UE4Editor-zhihui-9440.dll (0:02.14 at +0:11)
+[2019.08.06-14.07.43:390][991]CompilerResultsLog:   ???ڴ????? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-9440.suppressed.lib ?Ͷ??? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-9440.suppressed.exp
+[2019.08.06-14.07.43:392][991]CompilerResultsLog: UE4Editor-zhihui-9440.lib (0:01.39 at +0:13)
+[2019.08.06-14.07.43:392][991]CompilerResultsLog:   ???ڴ????? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-9440.lib ?Ͷ??? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-9440.exp
+[2019.08.06-14.07.43:394][991]CompilerResultsLog: zhihuiEditor.target (0:01.06 at +0:14)
+[2019.08.06-14.07.43:395][991]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.08.06-14.07.43:395][991]CompilerResultsLog: 
+[2019.08.06-14.07.43:396][991]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.08.06-14.07.43:396][991]CompilerResultsLog: 
+[2019.08.06-14.07.43:397][991]CompilerResultsLog: 1 build system warning(s):
+[2019.08.06-14.07.43:397][991]CompilerResultsLog:    - License is invalid
+[2019.08.06-14.07.43:398][991]CompilerResultsLog: 
+[2019.08.06-14.07.43:398][991]CompilerResultsLog: Total time in XGE executor: 16.79 seconds
+[2019.08.06-14.07.43:399][991]CompilerResultsLog: Total execution time: 49.29 seconds
+[2019.08.06-14.07.43:399][991]LogMainFrame: MainFrame: Module compiling took 49.925 seconds
+[2019.08.06-14.07.43:429][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.08.06-14.07.43:501][991]LogClass: Could not find existing class Yichangshijian in package /Script/zhihui for HotReload, assuming new class
+[2019.08.06-14.07.43:506][991]LogClass: UPeopleRateAnalysis HotReload.
+[2019.08.06-14.07.43:506][991]LogClass: UPeopleRate HotReload.
+[2019.08.06-14.07.43:507][991]LogClass: UPeopleNumber HotReload.
+[2019.08.06-14.07.43:508][991]LogClass: UExceptionRate HotReload.
+[2019.08.06-14.07.43:508][991]LogClass: UExceptionCount HotReload.
+[2019.08.06-14.07.43:509][991]LogClass: UExceptionHighFrequency HotReload.
+[2019.08.06-14.07.43:510][991]LogClass: UImportantAreaExceptionAnalysisZone HotReload.
+[2019.08.06-14.07.43:511][991]LogClass: UImportantAreaExceptionAnalysis HotReload.
+[2019.08.06-14.07.43:511][991]LogClass: UImportantAreaMonitorTime HotReload.
+[2019.08.06-14.07.43:513][991]LogClass: UImportantAreaMonitor HotReload.
+[2019.08.06-14.07.43:513][991]LogClass: UEmotionAnalysisZone HotReload.
+[2019.08.06-14.07.43:517][991]LogClass: UEmotionAnalysis HotReload.
+[2019.08.06-14.07.43:517][991]LogClass: UKeyToday HotReload.
+[2019.08.06-14.07.43:518][991]LogClass: UCaseReportRate HotReload.
+[2019.08.06-14.07.43:519][991]LogClass: UCaseRatio HotReload.
+[2019.08.06-14.07.43:519][991]LogClass: UCaseDeal HotReload.
+[2019.08.06-14.07.43:520][991]LogClass: UCaseSource HotReload.
+[2019.08.06-14.07.43:520][991]LogClass: UAreaBlackList HotReload.
+[2019.08.06-14.07.43:530][991]LogContentBrowser: Native class hierarchy updated for 'zhihui' in 0.0031 seconds. Added 12 classes and 2 folders.
+[2019.08.06-14.07.43:537][991]Display: HotReload successful (5 functions remapped  18 scriptstructs remapped)
+[2019.08.06-14.07.43:624][991]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.08.06-14.07.43:643][991]LogContentBrowser: Native class hierarchy populated in 0.0175 seconds. Added 2745 classes and 663 folders.
+[2019.08.06-14.07.43:652][991]Display: HotReload took 54.2s.
+[2019.08.06-14.07.43:655][991]Warning: HotReload operation took 54.2s.
+[2019.08.06-14.07.44:915][991]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/Administrator/Documents/Unreal Projects/zhihui/Source/zhihui/Yichangshijian.h'
+[2019.08.06-14.07.46:609][991]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/Administrator/Documents/Unreal Projects/zhihui/Source/zhihui/Yichangshijian.cpp'
+[2019.08.06-14.07.46:623][991]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-14.07.46:672][991]LogSlate: Window '添加C++类' being destroyed
+[2019.08.06-14.07.46:763][992]LogHotReload: New module detected: UE4Editor-zhihui-9440.dll
+[2019.08.06-14.07.46:812][993]LogHotReload: Starting Hot-Reload from IDE
+[2019.08.06-14.07.46:879][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.08.06-14.07.46:892][993]LogContentBrowser: Native class hierarchy updated for 'zhihui' in 0.0029 seconds. Added 12 classes and 2 folders.
+[2019.08.06-14.07.46:899][993]Display: HotReload successful (0 functions remapped  18 scriptstructs remapped)
+[2019.08.06-14.07.46:931][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.08.06-14.07.46:946][993]LogContentBrowser: Native class hierarchy populated in 0.0138 seconds. Added 2745 classes and 663 folders.
+[2019.08.06-14.07.46:962][993]Display: HotReload took  0.1s.
+[2019.08.06-14.08.10:487][ 60]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (23.726 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.06-14.16.07:977][520]LogSlate: Window 'Content Browser' being destroyed
+[2019.08.06-14.16.07:996][520]LogSlate: Window 'Content Browser' being destroyed
+[2019.08.06-14.16.09:189][591]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-14.16.10:442][665]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-14.16.12:094][758]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-14.16.20:084][204]Candidate modules for hot reload:
+[2019.08.06-14.16.20:086][204]  zhihui
+[2019.08.06-14.16.20:087][204]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=zhihui,866 Win64 Development -TargetType=Editor -Project="C:/Users/Administrator/Documents/Unreal Projects/zhihui/zhihui.uproject" "C:/Users/Administrator/Documents/Unreal Projects/zhihui/zhihui.uproject"  -IgnoreJunk]
+[2019.08.06-14.17.13:747][204]CompilerResultsLog: New page: 编译- 2019年8月7日 上午6:17:13
+[2019.08.06-14.17.13:748][204]CompilerResultsLog: Invalidating makefile for zhihuiEditor (source file added)
+[2019.08.06-14.17.13:749][204]CompilerResultsLog: Parsing headers for zhihuiEditor
+[2019.08.06-14.17.13:749][204]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Administrator\Documents\Unreal Projects\zhihui\zhihui.uproject" "C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\zhihuiEditor\Development\zhihuiEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.08.06-14.17.13:751][204]CompilerResultsLog: Reflection code generated for zhihuiEditor in 23.9191015 seconds
+[2019.08.06-14.17.13:751][204]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-14.17.13:752][204]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-14.17.13:753][204]CompilerResultsLog: Attempting to retry...
+[2019.08.06-14.17.13:753][204]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-14.17.13:754][204]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-14.17.13:755][204]CompilerResultsLog: Attempting to retry...
+[2019.08.06-14.17.13:756][204]CompilerResultsLog: Failed to delete file 'C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb'
+[2019.08.06-14.17.13:757][204]CompilerResultsLog:     Exception: ??·????C:\Users\Administrator\Documents\Unreal Projects\zhihui\Binaries\Win64\UE4Editor-zhihui.pdb???ķ??ʱ??ܾ???
+[2019.08.06-14.17.13:758][204]CompilerResultsLog: ERROR: Exhausted all retries!
+[2019.08.06-14.17.13:759][204]CompilerResultsLog: Using Visual Studio 2019 14.22.27905 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.08.06-14.17.13:760][204]CompilerResultsLog: Distributing 6 actions to XGE
+[2019.08.06-14.17.13:760][204]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.08.06-14.17.13:762][204]CompilerResultsLog: License is invalid:
+[2019.08.06-14.17.13:763][204]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.08.06-14.17.13:764][204]CompilerResultsLog:     This build will run in standalone mode.
+[2019.08.06-14.17.13:766][204]CompilerResultsLog: 
+[2019.08.06-14.17.13:768][204]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.08.06-14.17.13:769][204]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.08.06-14.17.13:771][204]CompilerResultsLog: ZichanAPI.gen.cpp (0:03.79 at +0:00)
+[2019.08.06-14.17.13:772][204]CompilerResultsLog: zhihui.init.gen.cpp (0:03.78 at +0:03)
+[2019.08.06-14.17.13:773][204]CompilerResultsLog: ZichanAPI.cpp (0:03.54 at +0:07)
+[2019.08.06-14.17.13:774][204]CompilerResultsLog: UE4Editor-zhihui-0866.dll (0:01.81 at +0:11)
+[2019.08.06-14.17.13:775][204]CompilerResultsLog:   ???ڴ????? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-0866.suppressed.lib ?Ͷ??? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-0866.suppressed.exp
+[2019.08.06-14.17.13:778][204]CompilerResultsLog: UE4Editor-zhihui-0866.lib (0:00.71 at +0:13)
+[2019.08.06-14.17.13:779][204]CompilerResultsLog:   ???ڴ????? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-0866.lib ?Ͷ??? C:\Users\Administrator\Documents\Unreal Projects\zhihui\Intermediate\Build\Win64\UE4Editor\Development\zhihui\UE4Editor-zhihui-0866.exp
+[2019.08.06-14.17.13:780][204]CompilerResultsLog: zhihuiEditor.target (0:00.78 at +0:13)
+[2019.08.06-14.17.13:781][204]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.08.06-14.17.13:782][204]CompilerResultsLog: 
+[2019.08.06-14.17.13:782][204]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.08.06-14.17.13:783][204]CompilerResultsLog: 
+[2019.08.06-14.17.13:783][204]CompilerResultsLog: 1 build system warning(s):
+[2019.08.06-14.17.13:783][204]CompilerResultsLog:    - License is invalid
+[2019.08.06-14.17.13:784][204]CompilerResultsLog: 
+[2019.08.06-14.17.13:785][204]CompilerResultsLog: Total time in XGE executor: 15.44 seconds
+[2019.08.06-14.17.13:787][204]CompilerResultsLog: Total execution time: 53.15 seconds
+[2019.08.06-14.17.13:789][204]LogMainFrame: MainFrame: Module compiling took 53.712 seconds
+[2019.08.06-14.17.13:824][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.08.06-14.17.13:849][204]LogContentBrowser: Native class hierarchy populated in 0.0243 seconds. Added 2745 classes and 663 folders.
+[2019.08.06-14.17.13:863][204]Display: HotReload took 53.9s.
+[2019.08.06-14.17.13:866][204]Warning: HotReload operation took 53.9s.
+[2019.08.06-14.17.14:823][204]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/Administrator/Documents/Unreal Projects/zhihui/Source/zhihui/ZichanAPI.h'
+[2019.08.06-14.17.15:116][204]LogSlate: Window '添加C++类' being destroyed
+[2019.08.06-14.17.15:157][204]LogHotReload: New module detected: UE4Editor-zhihui-0866.dll
+[2019.08.06-14.17.15:227][205]LogHotReload: Starting Hot-Reload from IDE
+[2019.08.06-14.17.15:289][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.08.06-14.17.15:345][205]LogClass: Could not find existing class ZichanAPI in package /Script/zhihui for HotReload, assuming new class
+[2019.08.06-14.17.15:346][205]LogClass: UPeopleRateAnalysis HotReload.
+[2019.08.06-14.17.15:346][205]LogClass: UPeopleRate HotReload.
+[2019.08.06-14.17.15:347][205]LogClass: UPeopleNumber HotReload.
+[2019.08.06-14.17.15:348][205]LogClass: UExceptionRate HotReload.
+[2019.08.06-14.17.15:348][205]LogClass: UExceptionCount HotReload.
+[2019.08.06-14.17.15:349][205]LogClass: UExceptionHighFrequency HotReload.
+[2019.08.06-14.17.15:349][205]LogClass: UImportantAreaExceptionAnalysisZone HotReload.
+[2019.08.06-14.17.15:350][205]LogClass: UImportantAreaExceptionAnalysis HotReload.
+[2019.08.06-14.17.15:352][205]LogClass: UImportantAreaMonitorTime HotReload.
+[2019.08.06-14.17.15:353][205]LogClass: UImportantAreaMonitor HotReload.
+[2019.08.06-14.17.15:354][205]LogClass: UEmotionAnalysisZone HotReload.
+[2019.08.06-14.17.15:355][205]LogClass: UEmotionAnalysis HotReload.
+[2019.08.06-14.17.15:356][205]LogClass: UKeyToday HotReload.
+[2019.08.06-14.17.15:357][205]LogClass: UCaseReportRate HotReload.
+[2019.08.06-14.17.15:358][205]LogClass: UCaseRatio HotReload.
+[2019.08.06-14.17.15:358][205]LogClass: UCaseDeal HotReload.
+[2019.08.06-14.17.15:359][205]LogClass: UCaseSource HotReload.
+[2019.08.06-14.17.15:360][205]LogClass: UAreaBlackList HotReload.
+[2019.08.06-14.17.15:370][205]LogContentBrowser: Native class hierarchy updated for 'zhihui' in 0.0042 seconds. Added 13 classes and 2 folders.
+[2019.08.06-14.17.15:375][205]Display: HotReload successful (5 functions remapped  18 scriptstructs remapped)
+[2019.08.06-14.17.15:464][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.08.06-14.17.15:492][205]LogContentBrowser: Native class hierarchy populated in 0.0269 seconds. Added 2746 classes and 663 folders.
+[2019.08.06-14.17.15:508][205]Display: HotReload took  0.3s.
+[2019.08.06-14.27.13:170][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-14.27.13:283][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.08.06-14.27.13:350][162]LogSlate: Window 'zhihui - 虚幻编辑器' being destroyed
+[2019.08.06-14.27.13:358][162]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.06-14.27.13:623][163]Cmd: QUIT_EDITOR
+[2019.08.06-14.27.13:799][163]LogExit: Preparing to exit.
+[2019.08.06-14.27.14:202][163]LogExit: Editor shut down
+[2019.08.06-14.27.14:203][163]LogExit: Transaction tracking system shut down
+[2019.08.06-14.27.14:450][163]LogExit: Object subsystem successfully closed.
+[2019.08.06-14.27.14:503][163]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.06-14.27.14:512][163]LogD3D11RHI: Shutdown
+[2019.08.06-14.27.14:513][163]LogD3D11RHI: CleanupD3DDevice
+[2019.08.06-14.27.14:514][163]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.06-14.27.14:514][163]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.06-14.27.14:515][163]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.06-14.27.14:515][163]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.06-14.27.14:515][163]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.06-14.27.14:516][163]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.06-14.27.14:648][163]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.06-14.27.14:929][163]LogModuleManager: Shutting down and abandoning module zhihui (657)
+[2019.08.06-14.27.14:930][163]LogModuleManager: Shutting down and abandoning module AddContentDialog (649)
+[2019.08.06-14.27.14:931][163]LogModuleManager: Shutting down and abandoning module WidgetCarousel (648)
+[2019.08.06-14.27.14:931][163]LogModuleManager: Shutting down and abandoning module EditorWidgets (642)
+[2019.08.06-14.27.14:932][163]LogModuleManager: Shutting down and abandoning module CollectionManager (640)
+[2019.08.06-14.27.14:933][163]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (638)
+[2019.08.06-14.27.14:933][163]LogModuleManager: Shutting down and abandoning module SceneOutliner (636)
+[2019.08.06-14.27.14:933][163]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (634)
+[2019.08.06-14.27.14:934][163]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2019.08.06-14.27.14:935][163]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2019.08.06-14.27.14:935][163]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2019.08.06-14.27.14:937][163]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2019.08.06-14.27.14:938][163]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2019.08.06-14.27.14:938][163]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2019.08.06-14.27.14:938][163]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2019.08.06-14.27.14:938][163]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2019.08.06-14.27.14:939][163]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2019.08.06-14.27.14:939][163]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2019.08.06-14.27.14:941][163]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2019.08.06-14.27.14:941][163]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2019.08.06-14.27.14:942][163]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2019.08.06-14.27.14:942][163]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2019.08.06-14.27.14:943][163]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2019.08.06-14.27.14:944][163]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2019.08.06-14.27.14:946][163]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2019.08.06-14.27.14:946][163]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2019.08.06-14.27.14:947][163]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2019.08.06-14.27.14:948][163]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2019.08.06-14.27.14:948][163]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2019.08.06-14.27.14:948][163]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2019.08.06-14.27.14:949][163]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2019.08.06-14.27.14:949][163]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2019.08.06-14.27.14:950][163]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2019.08.06-14.27.14:951][163]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2019.08.06-14.27.14:953][163]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2019.08.06-14.27.14:953][163]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2019.08.06-14.27.14:953][163]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2019.08.06-14.27.14:953][163]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2019.08.06-14.27.14:954][163]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2019.08.06-14.27.14:954][163]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2019.08.06-14.27.14:954][163]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2019.08.06-14.27.14:954][163]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2019.08.06-14.27.14:955][163]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2019.08.06-14.27.14:955][163]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2019.08.06-14.27.14:955][163]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2019.08.06-14.27.14:955][163]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2019.08.06-14.27.14:955][163]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2019.08.06-14.27.14:956][163]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2019.08.06-14.27.14:956][163]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2019.08.06-14.27.14:956][163]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2019.08.06-14.27.14:957][163]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2019.08.06-14.27.14:957][163]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2019.08.06-14.27.14:957][163]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2019.08.06-14.27.14:958][163]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2019.08.06-14.27.14:960][163]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2019.08.06-14.27.14:961][163]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2019.08.06-14.27.14:963][163]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2019.08.06-14.27.14:963][163]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2019.08.06-14.27.14:963][163]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2019.08.06-14.27.14:963][163]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2019.08.06-14.27.14:964][163]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2019.08.06-14.27.14:964][163]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2019.08.06-14.27.15:999][163]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2019.08.06-14.27.15:999][163]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2019.08.06-14.27.15:999][163]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2019.08.06-14.27.15:999][163]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2019.08.06-14.27.16:000][163]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2019.08.06-14.27.16:000][163]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2019.08.06-14.27.16:001][163]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2019.08.06-14.27.16:002][163]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2019.08.06-14.27.16:002][163]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2019.08.06-14.27.16:003][163]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2019.08.06-14.27.16:003][163]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2019.08.06-14.27.16:004][163]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2019.08.06-14.27.16:004][163]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2019.08.06-14.27.16:005][163]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2019.08.06-14.27.16:005][163]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2019.08.06-14.27.16:005][163]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2019.08.06-14.27.16:006][163]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2019.08.06-14.27.16:006][163]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2019.08.06-14.27.16:007][163]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2019.08.06-14.27.16:008][163]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2019.08.06-14.27.16:008][163]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2019.08.06-14.27.16:009][163]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2019.08.06-14.27.16:010][163]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2019.08.06-14.27.16:054][163]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2019.08.06-14.27.16:055][163]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2019.08.06-14.27.16:056][163]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2019.08.06-14.27.16:058][163]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2019.08.06-14.27.16:058][163]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2019.08.06-14.27.16:060][163]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2019.08.06-14.27.16:061][163]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2019.08.06-14.27.16:063][163]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2019.08.06-14.27.16:064][163]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2019.08.06-14.27.16:064][163]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2019.08.06-14.27.16:065][163]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2019.08.06-14.27.16:066][163]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2019.08.06-14.27.16:068][163]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2019.08.06-14.27.16:070][163]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2019.08.06-14.27.16:070][163]LogModuleManager: Shutting down and abandoning module DesktopPlatform (451)
+[2019.08.06-14.27.16:070][163]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.08.06-14.27.16:071][163]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.08.06-14.27.16:071][163]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.08.06-14.27.16:071][163]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.08.06-14.27.16:071][163]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.08.06-14.27.16:072][163]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.08.06-14.27.16:073][163]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.08.06-14.27.16:073][163]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.08.06-14.27.16:073][163]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.08.06-14.27.16:073][163]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.08.06-14.27.16:074][163]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.08.06-14.27.16:074][163]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.08.06-14.27.16:074][163]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.08.06-14.27.16:074][163]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.08.06-14.27.16:074][163]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.08.06-14.27.16:075][163]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.08.06-14.27.16:075][163]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.08.06-14.27.16:076][163]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.08.06-14.27.16:076][163]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.08.06-14.27.16:076][163]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2019.08.06-14.27.16:084][163]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2019.08.06-14.27.16:206][163]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2019.08.06-14.27.16:207][163]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2019.08.06-14.27.16:207][163]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2019.08.06-14.27.16:208][163]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2019.08.06-14.27.16:209][163]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2019.08.06-14.27.16:209][163]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2019.08.06-14.27.16:210][163]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2019.08.06-14.27.16:210][163]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2019.08.06-14.27.16:210][163]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2019.08.06-14.27.16:211][163]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2019.08.06-14.27.16:211][163]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2019.08.06-14.27.16:211][163]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2019.08.06-14.27.16:212][163]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2019.08.06-14.27.16:212][163]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2019.08.06-14.27.16:212][163]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2019.08.06-14.27.16:213][163]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2019.08.06-14.27.16:214][163]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2019.08.06-14.27.16:214][163]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2019.08.06-14.27.16:214][163]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2019.08.06-14.27.16:215][163]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2019.08.06-14.27.16:215][163]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2019.08.06-14.27.16:215][163]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.08.06-14.27.16:216][163]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.08.06-14.27.16:216][163]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.08.06-14.27.16:216][163]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.08.06-14.27.16:217][163]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.08.06-14.27.16:217][163]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.08.06-14.27.16:217][163]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.08.06-14.27.16:217][163]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.08.06-14.27.16:217][163]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.08.06-14.27.16:218][163]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.08.06-14.27.16:218][163]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.08.06-14.27.16:218][163]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.08.06-14.27.16:218][163]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.08.06-14.27.16:219][163]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.08.06-14.27.16:219][163]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.08.06-14.27.16:221][163]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.08.06-14.27.16:222][163]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2019.08.06-14.27.16:222][163]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.08.06-14.27.16:223][163]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.08.06-14.27.16:223][163]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.08.06-14.27.16:223][163]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.08.06-14.27.16:223][163]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.08.06-14.27.16:223][163]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.08.06-14.27.16:224][163]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.08.06-14.27.16:225][163]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.08.06-14.27.16:226][163]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.08.06-14.27.16:226][163]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.08.06-14.27.16:226][163]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2019.08.06-14.27.16:226][163]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.08.06-14.27.16:227][163]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.08.06-14.27.16:227][163]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.08.06-14.27.16:227][163]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.08.06-14.27.16:227][163]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.08.06-14.27.16:227][163]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.08.06-14.27.16:229][163]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.08.06-14.27.16:229][163]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.08.06-14.27.16:229][163]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.08.06-14.27.16:230][163]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.08.06-14.27.16:230][163]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.08.06-14.27.16:230][163]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.08.06-14.27.16:230][163]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.08.06-14.27.16:331][163]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.08.06-14.27.16:433][163]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.08.06-14.27.16:433][163]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.08.06-14.27.16:433][163]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.08.06-14.27.16:434][163]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.08.06-14.27.16:434][163]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.08.06-14.27.16:434][163]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.06-14.27.16:435][163]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.08.06-14.27.16:435][163]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.08.06-14.27.16:435][163]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.08.06-14.27.16:436][163]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.08.06-14.27.16:436][163]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.08.06-14.27.16:436][163]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.08.06-14.27.16:437][163]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.08.06-14.27.16:438][163]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.08.06-14.27.16:439][163]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.08.06-14.27.16:439][163]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.08.06-14.27.16:440][163]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.08.06-14.27.16:440][163]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.08.06-14.27.16:443][163]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.08.06-14.27.16:445][163]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.08.06-14.27.16:446][163]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.08.06-14.27.16:446][163]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.08.06-14.27.16:446][163]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.08.06-14.27.16:446][163]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.08.06-14.27.16:447][163]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.08.06-14.27.16:447][163]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.08.06-14.27.16:448][163]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.08.06-14.27.16:448][163]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.08.06-14.27.16:449][163]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.08.06-14.27.16:449][163]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.08.06-14.27.16:450][163]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.08.06-14.27.16:450][163]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.08.06-14.27.16:450][163]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.08.06-14.27.16:451][163]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.08.06-14.27.16:452][163]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.08.06-14.27.16:452][163]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.08.06-14.27.16:454][163]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.08.06-14.27.16:455][163]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.08.06-14.27.16:457][163]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.08.06-14.27.16:457][163]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.08.06-14.27.16:457][163]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.08.06-14.27.16:458][163]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.08.06-14.27.16:461][163]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.08.06-14.27.16:461][163]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.08.06-14.27.16:463][163]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.08.06-14.27.16:463][163]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.08.06-14.27.16:465][163]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.08.06-14.27.16:466][163]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.08.06-14.27.16:466][163]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.08.06-14.27.16:466][163]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.08.06-14.27.16:467][163]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.08.06-14.27.16:467][163]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.08.06-14.27.16:467][163]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.08.06-14.27.16:467][163]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.08.06-14.27.16:467][163]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.08.06-14.27.16:467][163]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.08.06-14.27.16:468][163]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.08.06-14.27.16:468][163]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.08.06-14.27.16:469][163]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.08.06-14.27.16:470][163]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.08.06-14.27.16:471][163]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.08.06-14.27.16:471][163]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.08.06-14.27.16:523][163]LogDerivedDataCache: Shutdown
+[2019.08.06-14.27.16:523][163]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.08.06-14.27.16:524][163]LogXGEController: Cleaning working directory: C:/Users/Administrator/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.06-14.27.16:526][163]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.08.06-14.27.16:527][163]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.08.06-14.27.16:528][163]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.08.06-14.27.16:529][163]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.08.06-14.27.16:530][163]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.08.06-14.27.16:530][163]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.08.06-14.27.16:531][163]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.08.06-14.27.16:531][163]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.08.06-14.27.16:531][163]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.08.06-14.27.16:532][163]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.08.06-14.27.16:534][163]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.08.06-14.27.16:535][163]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.08.06-14.27.16:535][163]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.08.06-14.27.16:535][163]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.08.06-14.27.16:535][163]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.08.06-14.27.16:535][163]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.08.06-14.27.16:535][163]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.08.06-14.27.16:537][163]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.08.06-14.27.16:537][163]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.08.06-14.27.16:537][163]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.08.06-14.27.16:538][163]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.08.06-14.27.16:538][163]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.08.06-14.27.16:539][163]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.08.06-14.27.16:539][163]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.08.06-14.27.16:540][163]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.08.06-14.27.16:540][163]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.08.06-14.27.16:547][163]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.08.06-14.27.16:547][163]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.08.06-14.27.16:547][163]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.08.06-14.27.16:547][163]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.08.06-14.27.16:547][163]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.08.06-14.27.16:547][163]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.08.06-14.27.16:548][163]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.08.06-14.27.16:548][163]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.08.06-14.27.16:548][163]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.08.06-14.27.16:548][163]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.08.06-14.27.16:548][163]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.08.06-14.27.16:549][163]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.08.06-14.27.16:549][163]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.08.06-14.27.16:549][163]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.08.06-14.27.16:550][163]LogHMD: Freeing OpenVRDLLHandle.
+[2019.08.06-14.27.16:550][163]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.08.06-14.27.16:552][163]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.08.06-14.27.16:552][163]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.08.06-14.27.16:552][163]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.08.06-14.27.16:552][163]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.08.06-14.27.16:554][163]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.08.06-14.27.16:555][163]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.08.06-14.27.16:562][163]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.08.06-14.27.16:562][163]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.08.06-14.27.16:562][163]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B92FC98ED-4493-FC72-E34B-19B37F386DFF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=9904af564373b550bbf31694ec254d62%7C3aacccb4408d47b2bb72906b10c8f7d4%7Caaa545a9-d9cc-424e-9840-7d6e49d9a0bf&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.06-14.27.16:585][163]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.08.06-14.27.16:586][163]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.08.06-14.27.16:594][163]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.08.06-14.27.16:601][163]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.08.06-14.27.16:602][163]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.08.06-14.27.16:605][163]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.08.06-14.27.16:606][163]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.08.06-14.27.16:607][163]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.08.06-14.27.16:609][163]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.08.06-14.27.16:611][163]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.08.06-14.27.16:611][163]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.08.06-14.27.16:611][163]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.08.06-14.27.16:615][163]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.08.06-14.27.16:616][163]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.08.06-14.27.16:616][163]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.08.06-14.27.16:616][163]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.08.06-14.27.16:616][163]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.08.06-14.27.16:617][163]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.08.06-14.27.16:617][163]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.08.06-14.27.16:617][163]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.08.06-14.27.16:617][163]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.08.06-14.27.16:618][163]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.08.06-14.27.16:618][163]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.08.06-14.27.16:618][163]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.08.06-14.27.16:641][163]LogExit: Exiting.
+[2019.08.06-14.27.16:652][163]Log file closed, 08/06/19 22:27:16

@@ -1,0 +1,8 @@
+
+*.db
+*.ipch
+*.bin
+*.pdb
+*.dll
+*.pch
+/Intermediate/Build/

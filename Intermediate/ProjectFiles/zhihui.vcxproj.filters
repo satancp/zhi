@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\zhihui.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EFA5C250-0B00-4D56-8321-AE3935196368}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\zhihui.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\zhihuiEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D1501BF3-54F4-430B-925A-8EF00016598E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\zhihui">
+      <UniqueIdentifier>{ED7D86C7-C2E2-4B90-93A9-33F2CDB9FD43}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\zhihui\FHuolifenxiAPI.cpp">
+      <Filter>Source\zhihui</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\zhihui\FHuolifenxiAPI.h">
+      <Filter>Source\zhihui</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\zhihui\zhihui.Build.cs">
+      <Filter>Source\zhihui</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\zhihui\zhihui.cpp">
+      <Filter>Source\zhihui</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\zhihui\zhihui.h">
+      <Filter>Source\zhihui</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\zhihui\zhihuiGameModeBase.cpp">
+      <Filter>Source\zhihui</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\zhihui\zhihuiGameModeBase.h">
+      <Filter>Source\zhihui</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\zhihui\NewActorComponent.h">
+      <Filter>Source\zhihui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\zhihui\HuolifenxiAPI.h">
+      <Filter>Source\zhihui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\zhihui\NewActorComponent1.h">
+      <Filter>Source\zhihui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\zhihui\YanghuAPI.h">
+      <Filter>Source\zhihui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\zhihui\ShexiangtouAPI.h">
+      <Filter>Source\zhihui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\zhihui\QitaAPI.h">
+      <Filter>Source\zhihui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\zhihui\BaoanchaxunAPI.h">
+      <Filter>Source\zhihui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\zhihui\TongjiAPI.h">
+      <Filter>Source\zhihui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\zhihui\HeimingdanAPI.h">
+      <Filter>Source\zhihui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\zhihui\Yichangshijian.h">
+      <Filter>Source\zhihui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\zhihui\ZichanAPI.h">
+      <Filter>Source\zhihui</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\zhihui\NewActorComponent.cpp">
+      <Filter>Source\zhihui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\zhihui\HuolifenxiAPI.cpp">
+      <Filter>Source\zhihui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\zhihui\NewActorComponent1.cpp">
+      <Filter>Source\zhihui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\zhihui\YanghuAPI.cpp">
+      <Filter>Source\zhihui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\zhihui\ShexiangtouAPI.cpp">
+      <Filter>Source\zhihui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\zhihui\QitaAPI.cpp">
+      <Filter>Source\zhihui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\zhihui\BaoanchaxunAPI.cpp">
+      <Filter>Source\zhihui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\zhihui\TongjiAPI.cpp">
+      <Filter>Source\zhihui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\zhihui\HeimingdanAPI.cpp">
+      <Filter>Source\zhihui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\zhihui\Yichangshijian.cpp">
+      <Filter>Source\zhihui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\zhihui\ZichanAPI.cpp">
+      <Filter>Source\zhihui</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
