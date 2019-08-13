@@ -5,6 +5,7 @@
 #include "Runtime/Online/HTTP/Public/Http.h"
 #include "Json.h"
 #include "JsonUtilities.h"
+#include <time.h>
 
 void UZichanAPI::auth()
 {
@@ -36,9 +37,22 @@ void UZichanAPI::authResponse(FHttpRequestPtr HttpRequest, FHttpResponsePtr Http
 		if (FJsonSerializer::Deserialize(Reader, JsonObject))
 		{
 			FString token = JsonObject->GetStringField("token");
+			time_t current = time(NULL);
 			this->token = token;
+			this->tokenActTime = current;
 			UE_LOG(LogTemp, Warning, TEXT("%s"), *(token));
 		}
+	}
+}
+
+bool UZichanAPI::isTokenValid()
+{
+	time_t current = time(NULL);
+	if (difftime(this->tokenActTime, current) >= 4233600) {
+		return false;
+	}
+	else {
+		return true;
 	}
 }
 

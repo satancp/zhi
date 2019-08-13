@@ -7,6 +7,7 @@
 #include "Json.h"
 #include "UObject/NoExportTypes.h"
 #include "ZichanAPI.generated.h"
+#include <time.h>
 
 /**
  * 
@@ -15,13 +16,17 @@ UCLASS()
 class ZHIHUI_API UZichanAPI : public UObject
 {
 	FString token = "";
-	void auth();
-	void authResponse(FHttpRequestPtr HttpRequest, FHttpResponsePtr HttpResponse, bool bSucceeded);
+	time_t tokenActTime;
 	GENERATED_BODY()
 public:
 	UZichanAPI() {
 		auth();
 	};
+	UFUNCTION(BlueprintCallable)
+	void auth();
+	void authResponse(FHttpRequestPtr HttpRequest, FHttpResponsePtr HttpResponse, bool bSucceeded);
+	UFUNCTION(BlueprintCallable)
+		bool isTokenValid();
 	UFUNCTION(BlueprintCallable)
 		void getStatOnline();
 	void getStatOnlineResponse(FHttpRequestPtr HttpRequest, FHttpResponsePtr HttpResponse, bool bSucceeded);
