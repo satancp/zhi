@@ -171,39 +171,34 @@ void UYichangshijian::getYichangliebiaoPCResponse(FHttpRequestPtr HttpRequest, F
 		{
 			FString code = JsonObject->GetStringField("code");
 			FString msg = JsonObject->GetStringField("msg");
-			TArray<FUYichangliebiaoPC> data;
-			TArray<TSharedPtr<FJsonValue>> rawData = JsonObject->GetArrayField("data");
-			for (int32 index = 0; index < rawData.Num(); index++)
+			TSharedPtr<FJsonObject> single = JsonObject->GetObjectField("data");
+			TArray<TSharedPtr<FJsonValue>> rawEventList = single->GetArrayField("eventList");
+			int32 currPage = single->GetIntegerField("currPage");
+			int32 pageSize = single->GetIntegerField("pageSize");
+			int32 rowCount = single->GetIntegerField("rowCount");
+			int32 pageCount = single->GetIntegerField("pageCount");
+			TArray<FUYichangEventPC> eventList;
+			for (int32 index2 = 0; index2 < rawEventList.Num(); index2++)
 			{
-				TSharedPtr<FJsonObject> single = rawData[index]->AsObject();
-				TArray<TSharedPtr<FJsonValue>> rawEventList = single->GetArrayField("eventList");
-				int32 currPage = single->GetIntegerField("currPage");
-				int32 pageSize = single->GetIntegerField("pageSize");
-				int32 rowCount = single->GetIntegerField("rowCount");
-				int32 pageCount = single->GetIntegerField("pageCount");
-				TArray<FUYichangEventPC> eventList;
-				for (int32 index2 = 0; index2 < rawEventList.Num(); index2++)
-				{
-					TSharedPtr<FJsonObject> single2 = rawEventList[index2]->AsObject();
-					FString eventCode = single2->GetStringField("eventCode");
-					FString eventName = single2->GetStringField("eventName");
-					FString eventType = single2->GetStringField("eventType");
-					FString eventImageNet = single2->GetStringField("eventImageNet");
-					FString eventStatus = single2->GetStringField("eventStatus");
-					FString happenTime = single2->GetStringField("happenTime");
-					FString crtAddr = single2->GetStringField("crtAddr");
-					FString eventImage = single2->GetStringField("eventImage");
-					FString reason = single2->GetStringField("reason");
-					FString zoneName = single2->GetStringField("zoneName");
-					FString personId = single2->GetStringField("personId");
-					FString personName = single2->GetStringField("personName");
-					FString personFaceImage = single2->GetStringField("personFaceImage");
-					FString deviceId = single2->GetStringField("deviceId");
-					FString updTime = single2->GetStringField("updTime");
-					eventList.Add(FUYichangEventPC(eventCode, eventName, eventType, eventImageNet, eventStatus, happenTime, crtAddr, eventImage, reason, zoneName, personId, personName, personFaceImage, deviceId, updTime));
-				}
-				data.Add(FUYichangliebiaoPC(currPage, pageSize, rowCount, pageCount, eventList));
+				TSharedPtr<FJsonObject> single2 = rawEventList[index2]->AsObject();
+				FString eventCode = single2->GetStringField("eventCode");
+				FString eventName = single2->GetStringField("eventName");
+				FString eventType = single2->GetStringField("eventType");
+				FString eventImageNet = single2->GetStringField("eventImageNet");
+				FString eventStatus = single2->GetStringField("eventStatus");
+				FString happenTime = single2->GetStringField("happenTime");
+				FString crtAddr = single2->GetStringField("crtAddr");
+				FString eventImage = single2->GetStringField("eventImage");
+				FString reason = single2->GetStringField("reason");
+				FString zoneName = single2->GetStringField("zoneName");
+				FString personId = single2->GetStringField("personId");
+				FString personName = single2->GetStringField("personName");
+				FString personFaceImage = single2->GetStringField("personFaceImage");
+				FString deviceId = single2->GetStringField("deviceId");
+				FString updTime = single2->GetStringField("updTime");
+				eventList.Add(FUYichangEventPC(eventCode, eventName, eventType, eventImageNet, eventStatus, happenTime, crtAddr, eventImage, reason, zoneName, personId, personName, personFaceImage, deviceId, updTime));
 			}
+			FUYichangliebiaoPC data = FUYichangliebiaoPC(currPage, pageSize, rowCount, pageCount, eventList);
 			UE_LOG(LogTemp, Warning, TEXT("%s"), *(code));
 		}
 	}
